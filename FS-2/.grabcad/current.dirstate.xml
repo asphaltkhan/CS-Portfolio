@@ -1,0 +1,3430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-03-05T23:05:33.6037014-08:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Non-Racecar (Jackstand...)\fs2jackstand.SLDASM</FileName>
+      <SHA1>5873944FF33238397E485D604DD0ECCC204FE6D8</SHA1>
+      <FileSize>239527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5560356+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Brake System - BR\FS2-BR-P-0001-V1, BRAKE ROTOR.SLDPRT</FileName>
+      <SHA1>B93F5F463C2869CC03ACCE279984E0B5DA56FBDF</SHA1>
+      <FileSize>273134</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-14T06:15:44.6744328+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Brake System - BR\README.txt</FileName>
+      <SHA1>29917F6A237CA256968443850D82D0CC05328294</SHA1>
+      <FileSize>42</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5630349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\AEM\SCREEN, CD-7G, PN 30-5702, AEM.SLDPRT</FileName>
+      <SHA1>BE548BB80B03281EA086EDFA11D362C320642B5C</SHA1>
+      <FileSize>11593283</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5710353+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Amphenol\CONNECTOR FEMALE, N020806601002, Amphenol.SLDPRT</FileName>
+      <SHA1>0D4B58452B19890A8B62841533E1F62672795519</SHA1>
+      <FileSize>68186</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5730389+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Amphenol\GFC FEMALE, PL082X-301-10D8, AMPHENOL.SLDPRT</FileName>
+      <SHA1>A161F7F9EE9022DF245B66844C15D7CBD79FD875</SHA1>
+      <FileSize>1107706</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5760362+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Amphenol\GFC MALE, PL282X-301-70, AMPHENOL.SLDPRT</FileName>
+      <SHA1>B929ADB674E5CBE79C6EBD3312552518191FB9BF</SHA1>
+      <FileSize>5089003</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5800379+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Amphenol\POTENTIOMETER, ROTARY HALL EFFECT POSITION SENSOR FOR 14MM SHAFT, PST-360G2, PIHER.SLDPRT</FileName>
+      <SHA1>1B162CE6664D60DC36302A91988F3C4E06F69483</SHA1>
+      <FileSize>1571209</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-22T02:31:47.5355851+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Ampseal\15 PIN MALE HEADER, C-1-776262-1-c-3d, AMPSEAL.SLDPRT</FileName>
+      <SHA1>3641FBEC40F5D6B8C40E633DF9F26975164FA524</SHA1>
+      <FileSize>384749</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5850383+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Ampseal\23 PIN MALE HEADER, 1-776087-1, AMPSEAL.SLDPRT</FileName>
+      <SHA1>1A2C5F87307CD1978E8F644542737A0007E8DAA6</SHA1>
+      <FileSize>481988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5860369+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Aurora\ROD END, 0.250 PTFE, AUR-ASM-4T, AURORA.SLDPRT</FileName>
+      <SHA1>F2C6E717735DCC5837ADA0B2CAE5A3F216EC0515</SHA1>
+      <FileSize>270850</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5880388+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Aurora\ROD END, 0.250 PTFE, AUR-XSM-4, AURORA.SLDPRT</FileName>
+      <SHA1>540A90CE92F783C5E3AD3065AB0966471A23382D</SHA1>
+      <FileSize>205721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5900351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Aurora\SPHERICAL BEARING, 0.250 PTFE, AUR-HAB-4, AURORA.SLDPRT</FileName>
+      <SHA1>95F42A06B59BE78227F23E04F37AD1F86270CFF1</SHA1>
+      <FileSize>209281</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5920351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\BEI Sensors\POTENTIOMETER, ROTARY POSITION SENSOR, 9850, BEI.SLDPRT</FileName>
+      <SHA1>9B1849486114F10F441C003953EA7E118D442A91</SHA1>
+      <FileSize>283997</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5930344+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Bussmann\350A FUSE, BUSSMANN.SLDPRT</FileName>
+      <SHA1>32337E4591D2EC2165686BA982A073CD4AD5D7FA</SHA1>
+      <FileSize>114165</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5950386+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Cane Creek\Climb_Switch_Instruction_sheet.pdf</FileName>
+      <SHA1>712DBB83AF0C335927F324EDE91AE457FE4F72F6</SHA1>
+      <FileSize>2047382</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6010363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Cane Creek\DB_owners-manual_2014_v11-web.pdf</FileName>
+      <SHA1>DC06B9892BE307980842224B092162217FAF6739</SHA1>
+      <FileSize>3399282</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6060379+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Cane Creek\DB_Quick-tune_Sheet.pdf</FileName>
+      <SHA1>00B4CC5FA6C03BB1BEA4C9D166AB3987AE89F2E9</SHA1>
+      <FileSize>391014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6030353+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Cane Creek\Factory_Tune_DBAir_Coil.pdf</FileName>
+      <SHA1>BC60FAEE0CC45B5F486EA2DE40F9EE4DFFEC9602</SHA1>
+      <FileSize>490013</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6090359+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Cane Creek\SHOCK, DOUBLE BARREL, CANE CREEK.SLDPRT</FileName>
+      <SHA1>14F79851EB3594468CC8B2F8EE13A2587ECD1EB2</SHA1>
+      <FileSize>764131</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6120377+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\CW Industries\RED SWITCH, GRB066B802BR1, CW Industries.SLDASM</FileName>
+      <SHA1>E3DB1172A00034B8FB1E91D17D9B6B938610813D</SHA1>
+      <FileSize>296513</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5980385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Dialight\RED LED, 6071112310F, Dialight.SLDPRT</FileName>
+      <SHA1>B1D77CC77BEB0C0912692170740442D75B6CE675</SHA1>
+      <FileSize>103871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6140363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\E-Switch\BUTTON, RP8100, E-SWITCH.SLDPRT</FileName>
+      <SHA1>81F7CA5140B4061224FDAA560818D668F24CDCC6</SHA1>
+      <FileSize>110484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6160360+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Energus Batteries\CELL MODULE, LI2x10PVTC5T, ENERGUS.SLDPRT</FileName>
+      <SHA1>BB1F242FCA0BDB498B5960553C4A3DEB1EA111DE</SHA1>
+      <FileSize>1082404</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-13T23:56:02.6071370+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Energus Batteries\CELL MODULE, LI8P, ENERGUS.SLDPRT</FileName>
+      <SHA1>2C16100B602E28255E0F1722EBC99C0F36313AB0</SHA1>
+      <FileSize>725995</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6220369+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Gigavac\CONTACTOR, GX14, GIGAVAC.SLDPRT</FileName>
+      <SHA1>6F0C0C11F5FD66EB09498FC2FF1129E833341944</SHA1>
+      <FileSize>4598997</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6270373+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Gigavac\CONTACTOR, GX23, GIGAVAC.SLDPRT</FileName>
+      <SHA1>98CB2D30CEC1C7B1308A022F441546847B958B27</SHA1>
+      <FileSize>2987692</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6320363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Gigavac\CONTACTOR, GX62, GIGAVAC.SLDPRT</FileName>
+      <SHA1>83AD170FF9CD537016C08944B7CC7364EDA09B8B</SHA1>
+      <FileSize>3157502</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6360376+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Hoosier\TYRE, 18.0X 6.0-10 R25B C2000, H43101R25B, Hoozier.SLDPRT.SLDPRT</FileName>
+      <SHA1>D2FC356CFDA824D8798884074AF3135EDB0D2434</SHA1>
+      <FileSize>232816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6380375+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Hoosier\TYRE, 18.0x7.5-10, Hoozier.SLDPRT</FileName>
+      <SHA1>E86AF140D63C139BD66D6120E1DE0C52525C8F80</SHA1>
+      <FileSize>209671</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6420377+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\JST\B2B-XH-A.STEP</FileName>
+      <SHA1>E732DC2A038F5BFB868D07B3B96378F989FD6A4E</SHA1>
+      <FileSize>108814</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6440366+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\JST\CONNECTOR ASSEMBLY, JST.SLDASM</FileName>
+      <SHA1>C846AA3568759FD6B44CDE36B1BFCD6B253CBA04</SHA1>
+      <FileSize>59670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6460350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\JST\CONNECTOR FEMALE, B2B-XH-A, JST.SLDPRT</FileName>
+      <SHA1>A99F9D83C76189FF2578687465B2B270F7E5CF2E</SHA1>
+      <FileSize>79163</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6480349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\JST\CONNECTOR, MALE XHP-2 CONNECTOR, JST.SLDPRT</FileName>
+      <SHA1>4F894CD246A3D5EEEE71A8EDA30FAC44CAB58E0A</SHA1>
+      <FileSize>66639</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6490347+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KA Sensors\KA94B Mated Assembly.SLDASM</FileName>
+      <SHA1>FD87B1E76EA2CB7B839A26BEADD6DBC82873166E</SHA1>
+      <FileSize>79695</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6520365+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KA Sensors\KA94B sensor body (body).SLDPRT</FileName>
+      <SHA1>7E7378393BDB58101904264CCB81A509ABDFD0A7</SHA1>
+      <FileSize>83903</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6550363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KA Sensors\KA94B Sensor Stantion.SLDPRT</FileName>
+      <SHA1>76818E91352E14563A7F3428481E03192179549E</SHA1>
+      <FileSize>85998</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6537833+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KA Sensors\POTENTIOMETER, 50MM LINEAR POSITION SENSOR, KA94B, KA SENSORS.SLDPRT</FileName>
+      <SHA1>7D2FEE1C8D144834DB6526E1C293D1D99AE12DBA</SHA1>
+      <FileSize>101231</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6570388+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KAZ\Rack Clevis, KAZ.SLDPRT</FileName>
+      <SHA1>76DF8750209D363CBCD0F03748B3799615CF4B21</SHA1>
+      <FileSize>158851</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1559344+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KAZ\Steering Rack - Dumb Solid, KAZ.SLDPRT</FileName>
+      <SHA1>6BEFD29E84DC8B5B9CC5A753C0A5BF8BACA9B769</SHA1>
+      <FileSize>949760</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6620368+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KAZ\Steering Rack Assembly, KAZ.SLDASM</FileName>
+      <SHA1>B5DDEE6537DBA112533C644FE90FF0C8EB9739F1</SHA1>
+      <FileSize>1051042</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1190915+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KAZ\Steering Rack Mounts, KAZ.SLDPRT</FileName>
+      <SHA1>56B8AA7F38BFAB32FE5A2D8A4CC628237E187108</SHA1>
+      <FileSize>642070</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6660350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\KAZ\Steering Rack, KAZ.SLDPRT</FileName>
+      <SHA1>78F183AB29DADA4F22CEB7C41DBF869946AD87CD</SHA1>
+      <FileSize>1781757</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6690346+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10-i.IGS</FileName>
+      <SHA1>0E6C80E52CF52D395B1B13A2A1CDADBAADFE643D</SHA1>
+      <FileSize>1503060</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6720385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10-i.PDF</FileName>
+      <SHA1>2C9FC702A7B5EA4C0AD979C402DB05D470170A57</SHA1>
+      <FileSize>100348</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6740350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10i 10inch wheel assembly.IGS</FileName>
+      <SHA1>A90C202A318D5CB323EB0791C97E9488B1CD156B</SHA1>
+      <FileSize>4203566</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6780358+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10i 10inch wheel assembly.PDF</FileName>
+      <SHA1>DA44E674ABFC3A66600CC8DAEDD79D96A91385E4</SHA1>
+      <FileSize>7786093</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6840373+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10in Series custom spec sheet.pdf</FileName>
+      <SHA1>654F33831369321BCD405F024FE01F707F3F565E</SHA1>
+      <FileSize>320175</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6860381+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\10in Series.pdf</FileName>
+      <SHA1>42554EBACB3B09075049C0F1F50232022D451BD0</SHA1>
+      <FileSize>506185</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6884577+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\10i10inchWheelAssembly-19aug10\4x4.jpg</FileName>
+      <SHA1>3ED97D6BBEA71B2C46AF0014359173F96FC2C90A</SHA1>
+      <FileSize>250463</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6910349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Inners\WHEEL, INNER HALF 10x3BC 10i, Keizer.sldprt</FileName>
+      <SHA1>B2B7DAC1B08C8FB87F21040C3EA6C3B6BAAFE3FC</SHA1>
+      <FileSize>491696</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6930352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Inners\WHEEL, INNER HALF 10x4BC 10i, Keizer.sldprt</FileName>
+      <SHA1>DE55F19D80CC8C7A9D6DE5910C1F1D9A8993D2B3</SHA1>
+      <FileSize>1059328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6960360+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Inners\WHEEL, INNER HALF 10x5BC 10i, Keizer.sldprt</FileName>
+      <SHA1>9CADED6FE61856115E68D31A8796F30E70FD02D8</SHA1>
+      <FileSize>497825</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.6980378+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Inners\WHEEL, INNER HALF 10x6BC 10i, Keizer.SLDPRT</FileName>
+      <SHA1>4C23AE8D73BFAA103E4BE370025EC37153939907</SHA1>
+      <FileSize>373197</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7000375+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Inners\WHEEL, INNER HALF 10x7BC 10i, Keizer.sldprt</FileName>
+      <SHA1>16AED4D13AEE7F003CF0F81AE82F64E52A248025</SHA1>
+      <FileSize>1072640</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7031420+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x1.25 10i, Keizer.sldprt</FileName>
+      <SHA1>A0C6B14B2EC60FA54F6DF6964A43451FA367481B</SHA1>
+      <FileSize>1217024</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7060371+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x2 10i, Keizer.sldprt</FileName>
+      <SHA1>415DE655984B70072D6B48D5DE265AC8893B4C6A</SHA1>
+      <FileSize>479484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7080354+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x3 10i, Keizer.sldprt</FileName>
+      <SHA1>D516FD05EBC263A63808340B03B314504E64BAC2</SHA1>
+      <FileSize>1093120</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7110382+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x4 10i, Keizer.sldprt</FileName>
+      <SHA1>BA28F2D09E70FD9E95A5AF38325F07A0AC42EACA</SHA1>
+      <FileSize>1135104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7140369+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x5 10i, Keizer.sldprt</FileName>
+      <SHA1>69B254C1B89BBB06B011F391A3FBD85A1476B695</SHA1>
+      <FileSize>481429</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7162482+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x6 10i, Keizer.sldprt</FileName>
+      <SHA1>72DDC152A6DB775F47EA281C7DA61F50F8BAE1E7</SHA1>
+      <FileSize>511964</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7180368+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x7 10i, Keizer.sldprt</FileName>
+      <SHA1>58E571E7D966F21CFCEDA789A88B840FD18F78E8</SHA1>
+      <FileSize>1162240</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7200385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x8 10i, Keizer.sldprt</FileName>
+      <SHA1>46BF84BFFCAB3C0DFC5414FD5BD118D4E3553415</SHA1>
+      <FileSize>1165824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7233288+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\Outers\WHEEL, OUTER HALF 10x9 10i, Keizer.sldprt</FileName>
+      <SHA1>01091371C4F00E4884665E23CB827BFBB91A1DC6</SHA1>
+      <FileSize>1180160</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7250352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Keizer\10-i wheel\WHEEL, 10i Center, Keizer.SLDPRT</FileName>
+      <SHA1>BA487739B8F481BFD5C2775972307B6292490B23</SHA1>
+      <FileSize>501759</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7280346+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\LEM\CURRENT METER, HASS 300-S, LEM.SLDPRT</FileName>
+      <SHA1>A392E85652878E5F3636116B092B9EC5278ADB2F</SHA1>
+      <FileSize>239843</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7300357+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\BEARING, 0.5 ID x 0.25 OIL-EMBEDED SLEEVE BEARING, 6338K414, MMC.SLDPRT</FileName>
+      <SHA1>AF9DFD962ECC1E3330E2D69B8A59918CCA88B480</SHA1>
+      <FileSize>76270</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7340871+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\BEARING, 0.5 ID X 0.375 HIGH-LOAD OIL-EMBEDDED SLEEVE BEARING, 2938T11, MMC.SLDPRT</FileName>
+      <SHA1>E3B972D4F6C055A5A479579812DF874E8EC3AA56</SHA1>
+      <FileSize>90912</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7320962+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\BEARING, 14MM ID X 14MM OIL-EMBEDDED SLEEVE BEARING, 6659K21, MMC.SLDPRT</FileName>
+      <SHA1>5EFFB6D0976D0029E03EC927F9953B25582F3802</SHA1>
+      <FileSize>106806</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4066017+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\IMG_8388.JPG</FileName>
+      <SHA1>0C87299D784C06015DCBB0A1FF584A7D376A5A89</SHA1>
+      <FileSize>1458574</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7390849+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\Needle-Roller Bearing, 0.375 x 0.5, 5905K220, MMC.SLDPRT</FileName>
+      <SHA1>D0A15A3FA85B4CD1420673C4121E7AD3BC8E44AF</SHA1>
+      <FileSize>161117</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7400871+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\Sealed Ball Bearing 60355K706, MMC.SLDPRT</FileName>
+      <SHA1>209C6E3FF7145715D2E1551DC0D2CCAAFECCE6C1</SHA1>
+      <FileSize>344904</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7420842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Bearings\Sealed Ball Bearing, 6138K720, MMC.SLDPRT</FileName>
+      <SHA1>0462AA7277581A8B60AD3DDC24ABCBDE541FF22B</SHA1>
+      <FileSize>334172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7440846+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Cord Grips\69915K520_COMPACT LIQUID-TIGHT CORD GRIP.SLDPRT</FileName>
+      <SHA1>4061025F9F6032EFBF535A4E29C732A16B331B13</SHA1>
+      <FileSize>4480089</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7490841+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Cord Grips\69915K530_COMPACT LIQUID-TIGHT CORD GRIP.SLDPRT</FileName>
+      <SHA1>F1E5434E5A6D3A82929631A0F8655B758D1FE9A7</SHA1>
+      <FileSize>4149624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7530863+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Cord Grips\69915K550_COMPACT LIQUID-TIGHT CORD GRIP.SLDPRT</FileName>
+      <SHA1>7B883DB5967CC774633099BDAE16BA73623D0CA1</SHA1>
+      <FileSize>3108532</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7560859+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Cord Grips\69915K560_COMPACT LIQUID-TIGHT CORD GRIP.SLDPRT</FileName>
+      <SHA1>5FC4676EF999A737A8B272E017D156F3618311F6</SHA1>
+      <FileSize>2505290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7593134+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Cord Grips\69915K570_COMPACT LIQUID-TIGHT CORD GRIP.SLDPRT</FileName>
+      <SHA1>5D5ACD2EDDC47A98DD1694F23A0AC2C46313DFEF</SHA1>
+      <FileSize>2085213</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7622974+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Crimp Lugs\6926K56.SLDPRT</FileName>
+      <SHA1>C554FC3E4C092019397C3B5CB7FD103103B59316</SHA1>
+      <FileSize>102169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7642998+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Crimp Lugs\6926K77.SLDPRT</FileName>
+      <SHA1>8D244E9AE7C82E6010CD64C015C5B0B45F588C39</SHA1>
+      <FileSize>93717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7652978+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Crimp Lugs\7113K553.SLDPRT</FileName>
+      <SHA1>97FF5CCB505EA643C18D3DF546C2C684728D42E6</SHA1>
+      <FileSize>77228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7672973+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\BOLT, 0.25-20 X 0.75 18-8 STAINLESS STEEL FLATHEAD SCREW, 92210A540, MMC.SLDPRT</FileName>
+      <SHA1>B71EA7E20BA45A05ACEB15F77222F943AC2370FD</SHA1>
+      <FileSize>559026</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4096042+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\BOLT, 0.25-20 X 0.75 SOCKET HEAD, 91251A540, MMC.SLDPRT</FileName>
+      <SHA1>65C5D01DA46C1BD0F4DF21AAF2C6B46B1CFB510C</SHA1>
+      <FileSize>637467</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7770480+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\BOLT, 0.25-20 X 1.00 HEX HEAD GRADE 5 BLACK-OXIDE STEEL, 92965A542, MMC.SLDPRT</FileName>
+      <SHA1>248033F7B73F5853F85065D6F1965A81D43AA42D</SHA1>
+      <FileSize>776287</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3454157+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\BOLT, 0.25-20 X 1.375 SOCKET HEAD, 91294A543, MMC.SLDPRT</FileName>
+      <SHA1>ABD3B4FB18F76C55E0FEBE80FB11FED5097C00AD</SHA1>
+      <FileSize>855170</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7790477+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\BOLT, 0.25-20 X 2.0 HEX HEAD ZINC PLATED, 92865A549, MMC.SLDPRT</FileName>
+      <SHA1>AB2040FCADA1DFB33D89B8788A7FD181B44F6662</SHA1>
+      <FileSize>1117880</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1589352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\NUT, 0.25-20 GRADE 8 HSS HEX NYLON INSERT LOCKNUT, 90630A110, MMC.SLDPRT</FileName>
+      <SHA1>94B81DFEB3BBF184188B03029C9A990328E0BA51</SHA1>
+      <FileSize>464990</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4116020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-20\NUT, 0.25-20 STAINLESS STEEL HEX, 91845A029, MMC.SLDPRT</FileName>
+      <SHA1>4EDB0DD482CB6DCA4C98429D12A159817D7055D0</SHA1>
+      <FileSize>377191</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7810499+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.25-28\HELICAL INSERT, 0.25-28 X 0.375 STAINLESS STEEL SCREW-LOCKING HELICAL INSERT, 90296A207, MMC.SLDPRT</FileName>
+      <SHA1>103C9C343C77762D5F40C50AA480BD35CBAE231F</SHA1>
+      <FileSize>1307648</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7840486+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 0.50 18-8 STAINLESS STEEL HEX HEAD CAP, 92240A301, MMC.SLDPRT</FileName>
+      <SHA1>CCBD5B1F2737A2F4D8F9E2425E3B5EEEDF20ECAA</SHA1>
+      <FileSize>599252</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7863415+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 0.75 18-8 STAINLESS STEEL HEX HEAD CAP, 92240A303, MMC.SLDPRT</FileName>
+      <SHA1>F0AE254FA424CA609B1D31A558148328A61ED8BC</SHA1>
+      <FileSize>815122</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7890479+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.00 GRADE 5 ZINC-PLATED STEEL HEX HEAD CAP, 92865A107, MMC.SLDPRT</FileName>
+      <SHA1>767787BEC8852510C16D35FDD95C48DEAC1801DE</SHA1>
+      <FileSize>999851</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3503939+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.25 18-8 STAINLESS STEEL HEX HEAD CAP, 92198A306, MMC.SLDPRT</FileName>
+      <SHA1>B0D292E54DC673E2799FE5C84A77ECB8BE76CF48</SHA1>
+      <FileSize>837570</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7910479+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.25 18-8 STAINLESS STEEL SOCKET HEAD, 92196A343, MMC.SLDPRT</FileName>
+      <SHA1>7A542469D31512BE8E04E7BEC3124441B3334E3A</SHA1>
+      <FileSize>1325753</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7940481+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.25 GRADE 5 ZINC-PLATED STEEL HEX HEAD CAP, 92865A109, MMC.SLDPRT</FileName>
+      <SHA1>B3C8F27E9C58B995DEA22ECC71362742385AB15B</SHA1>
+      <FileSize>1122511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4146028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.75 18-8 STAINLESS STEEL HEX HEAD CAP, 92198A308, MMC.SLDPRT</FileName>
+      <SHA1>1ECD332FF7CC5E15719AFEBD3EDF5FF08C20117A</SHA1>
+      <FileSize>762978</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7970522+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 1.875 18-8 STAINLESS STEEL HEX HEAD CAP, 92314A317, MMC.SLDPRT</FileName>
+      <SHA1>37640E777F16BA2CE5A47B8CA8417D998C077347</SHA1>
+      <FileSize>685965</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.7995891+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 2.00 GRADE 8 HSS HEX HEAD CAP, 91268A522, MMC.SLDPRT</FileName>
+      <SHA1>ABA38765EF41DF5279EEF3190BDE767D11870CD8</SHA1>
+      <FileSize>652969</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3533919+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\BOLT, 0.3125-24 X 3.5 18-8 STAINLESS STEEL SOCKET HEAD, 92196A351, MMC.SLDPRT</FileName>
+      <SHA1>A153429507517FDCF0BF38A2E7D4D84BDC9550EE</SHA1>
+      <FileSize>985078</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8017579+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\CASTLE NUT, 0.3125-24 18-8 STAINLESS STEEL LOCKNUT, 91853A520, MMC.SLDPRT</FileName>
+      <SHA1>0D4B2E5E7D0AE7BF45192A8F6C4F3F1FEA4E26A1</SHA1>
+      <FileSize>515486</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3569996+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\LOCKNUT, 0.3125-24 X 0.5 18-8 STAINLESS STEEL NYLON INSERT LOCKNUT, 91831A125, MMC.SLDPRT</FileName>
+      <SHA1>7FCF0A1F4339FDA811C190F30431E9157951C039</SHA1>
+      <FileSize>293425</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-24T01:30:29.4017044+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\NUT, 0.3125-24 18-8 STAINLESS STEEL HEX NUT, 91845A115, MMC.SLDPRT</FileName>
+      <SHA1>494FBB91643B118BED3335EEDE289DF41271E678</SHA1>
+      <FileSize>466114</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8064446+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\THIN HEX NUT, 0.3125-24 GRADE 5 STEEL , 94846A510, MMC.SLDPRT</FileName>
+      <SHA1>5C030F268A9AA65C0D3CA7E22AB39FB3B623E88B</SHA1>
+      <FileSize>142938</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8077417+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.3125-24\THIN HEX NUT, Left Hand 0.3125-24 GRADE 5 STEEL , 99612A112, MMC.SLDPRT</FileName>
+      <SHA1>7C9C0AE5493542D9BB379705197E4BDF38CBF2EC</SHA1>
+      <FileSize>738981</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8097398+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\0.375-24\BOLT, 0.375-24 X 1.5 SOCKET HEAD, 91251A428, MMC.SLDPRT</FileName>
+      <SHA1>E90AF725BDA2FA0D4B79B11F708142F4D12C1DFD</SHA1>
+      <FileSize>1492992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8137426+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\10-32\BOLT, 10-32 X 0.625 18-8 STAINLESS STEEL FLATHEAD SCREW, 92210A303, MMC.SLDPRT</FileName>
+      <SHA1>7D8493D81CAB337221A6897789B9F9E21F739879</SHA1>
+      <FileSize>703596</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4166038+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\10-32\BOLT, 10-32 X 1.00 18-8 STAINLESS STEEL BUTTON HEAD HEX DRIVE SCREW, 97763A342, MMC.SLDPRT</FileName>
+      <SHA1>C3E8BBA3C07D4B3DB572BF64326CC3CBEA7BDA42</SHA1>
+      <FileSize>406599</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3590523+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\10-32\NUT, 10-32 18-8 STAINLESS STEEL NYLON-INSERT LOCKNUT, 90101A225, MMC.SLDPRT</FileName>
+      <SHA1>2AC487A2D03FDEB267DA361412823605DB1C2E6B</SHA1>
+      <FileSize>333882</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3640519+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\10-32\SPRING ANCHOR, 10-32 X 1.125 BLACK-OXIDE STEEL EXTENSION SPRING STUD ANCHOR, 9634K34, MMC.SLDPRT</FileName>
+      <SHA1>77B5465EF8664ABAE85F966D3F1DCD77D91C741B</SHA1>
+      <FileSize>877495</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3670521+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\BOLT, 4-40 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 92196A106, MMC.SLDPRT</FileName>
+      <SHA1>C763589337B32F52A3A94A8DB5B337CDA0FEB24A</SHA1>
+      <FileSize>534638</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8244023+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\BOLT, 4-40 X 0.375 18-8 STAINLESS STEEL FLATHEAD SCREW, 92210A108, MMC.SLDPRT</FileName>
+      <SHA1>53CAF60AEA203F768EECA681C04CC5237209A1C6</SHA1>
+      <FileSize>529116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4186020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\BOLT, 4-40 X 0.375 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 92196A108, MMC.SLDPRT</FileName>
+      <SHA1>08DC45E4317B345EB8F8118395840DDC82135C9E</SHA1>
+      <FileSize>824195</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8264023+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\BOLT, 4-40 X 0.5 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 92196A110, MMC.SLDPRT</FileName>
+      <SHA1>3C424D86C70EB4B4698C369E624438006733CE8E</SHA1>
+      <FileSize>945197</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8294005+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\BOLT, 4-40 X 1.375 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 92196A118, MMC.SLDPRT</FileName>
+      <SHA1>C77FC3278B91BDDB3D06310F8D128E72153BA84C</SHA1>
+      <FileSize>889340</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4216022+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\NUT, 4-40 18-8 STAINLESS STEEL NYLON INSERT LOCKNUT, 91831A005, MMC.SLDPRT</FileName>
+      <SHA1>5CC3BC3F36F01E99E4B9B8014C4F261134AD746A</SHA1>
+      <FileSize>421217</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4236025+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\STANDOFF, 4-40 X 0.875 ALUMINUM FEMALE THREADED HEX, 91780A109, MMC.SLDPRT</FileName>
+      <SHA1>963D27E26A0214E5E8625FD26617468F0C8B0B18</SHA1>
+      <FileSize>1074991</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4296025+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\STANDOFF, 4-40 X 1.00 ALUMINUM FEMALE-THREADED HEX, 91780A167, MMC.SLDPRT</FileName>
+      <SHA1>35FE003E6FBBFEBFF7AA89C6DAA4EA34E0CFCA41</SHA1>
+      <FileSize>1164099</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8333988+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\STANDOFF, 4-40 X 1.375 ALUMINUM FEMALE-THREADED HEX STANDOFF, 91780A624, MMC.SLDPRT</FileName>
+      <SHA1>22DFD418BBB09D7D126FF64A3C2DB35F3811AB21</SHA1>
+      <FileSize>705215</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3700523+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\4-40\STANDOFF, ALUM MALE-FEM THRDED HEX, 93505A466, MMC .SLDPRT</FileName>
+      <SHA1>8323355CBCE6CE6F7EC91605257446A8BDE1005A</SHA1>
+      <FileSize>662852</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8354015+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\6-32\BOLT, 6-32 X 0.375 18-8 STAINLESS STEEL BUTTON HEAD HEX, 92949A146, MMC.SLDPRT</FileName>
+      <SHA1>ECD9E21E61A5512F1274AD3C4F0387EFBD73A92F</SHA1>
+      <FileSize>562156</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8413940+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\6-32\BOLT, 6-32 X 0.5 18-8 STAINLESS STEEL BUTTON HEAD HEX, 92949A148, MMC.SLDPRT</FileName>
+      <SHA1>BF992E9A29A153418794495B230B5ACC0083C7CE</SHA1>
+      <FileSize>725505</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8433947+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\6-32\BOLT, 6-32 X 0.5 ALLOY STEEL SOCKET HEAD, 91251A148, MMC.SLDPRT</FileName>
+      <SHA1>8977FB35E33C2DB83E33194B1380F926577474EA</SHA1>
+      <FileSize>611331</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8453958+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\6-32\cb160wiring2.jpg</FileName>
+      <SHA1>2054FBB20F9B3210590ECCBBCE1BB57380D0660A</SHA1>
+      <FileSize>319383</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8493955+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\6-32\THREADED INSERT, 6-32 X 0.25 18-8 STAINLESS STEEL INSERT FOR PLASTIC, 95110A113, MMC.SLDPRT</FileName>
+      <SHA1>B03DA153AF535FE9DDB87369222068CC100B998D</SHA1>
+      <FileSize>2072986</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8483963+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\8-32\BOLT, 8-32 X 0.5625 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 92196A195, MMC.SLDPRT</FileName>
+      <SHA1>206A0A4D91FC56DC969C2DCEEC1EDDD1CE231D87</SHA1>
+      <FileSize>928260</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8523936+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\8-32\NUT, 8-32 18-8 STAINLESS STEEL HEX NUT, 91841A009, MMC.SLDPRT</FileName>
+      <SHA1>98FD62ACAD92AFA266995EE1DB2C1AF3BC1C376C</SHA1>
+      <FileSize>305482</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8543974+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M10\BOLT, M10-1.5MM X 22 MM FLAT HEAD, 91294A553, MMC.SLDPRT</FileName>
+      <SHA1>2B03BFCA590142FAD5B6C495902FB7569C9E0C38</SHA1>
+      <FileSize>504274</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8563977+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M5\BOLT, M5 X 22MM 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 91292A060, MMC.SLDPRT</FileName>
+      <SHA1>C6BEAB52B3ADDB7A8D0C7E5247481279898A0DC1</SHA1>
+      <FileSize>897602</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0003237+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M5\BOLT, M5 X 25MM 18-8 STAINLESS STEEL SOCKET HEAD CAP SCREW, 91292A129, MMC.SLDPRT</FileName>
+      <SHA1>E97951423EB68B0C179E2D67E55D4F2CC4A2A661</SHA1>
+      <FileSize>966707</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8593961+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M5\NUT, M5 18-8 STAINLESS STEEL HEX NUT, 91828A241, MMC.SLDPRT</FileName>
+      <SHA1>FC8E8313099CE61AD1E147CDE3D7DA69313BDE89</SHA1>
+      <FileSize>378568</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8613941+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M5\NUT, M5 18-8 STAINLESS STEEL THIN HEX NUT, 90710A037, MMC.SLDPRT</FileName>
+      <SHA1>26A32337947245BCE73161EC469FEDE89F07B530</SHA1>
+      <FileSize>313019</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3750563+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M8\BOLT, M8-1.25MM X 25 MM HEX HEAD CAP SCREW, 91287A149, MMC.SLDPRT</FileName>
+      <SHA1>167CAECE358DF81278A246E35337BB725D712EAC</SHA1>
+      <FileSize>475433</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8633972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M8\BOLT, M8-1.25MM X 25 MM SOCKET HEAD, 91290A432, MMC.SLDPRT</FileName>
+      <SHA1>9405907EF9B82ADF6C773CF8B75ED7462ED73D58</SHA1>
+      <FileSize>721257</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8653941+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M8\WASHER, M8 METRIC GENERAL PURPOSE WASHERS 18-8 Stainless Steel, 98689A116, MMC.SLDPRT</FileName>
+      <SHA1>7049574A767E43F7768D163E6AE7AE19B0C6113E</SHA1>
+      <FileSize>67510</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8673972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Fasteners\M8\WASHER, M8 SINGLE WAVE WASHER, 92168A109, MMC.SLDPRT</FileName>
+      <SHA1>28416B5C48B5F1EFE5397CF32D1F8DC9E667F576</SHA1>
+      <FileSize>157832</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8693981+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Joints\Double U-Joint\Single U-Joint, for .75in Diameter x 1.1875in Deep Shaft, 6443K65, MMC.SLDASM</FileName>
+      <SHA1>BBBAB0969F32D9C9A46E3EA1D11D0C62C36479DA</SHA1>
+      <FileSize>160316</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8713933+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Joints\Double U-Joint\U-JOINT SHELL, .75 ID, 6443K940, MMC.SLDPRT</FileName>
+      <SHA1>3C7305B5CC75D91B5E6E9594D7C195A3B928B8AB</SHA1>
+      <FileSize>320614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8723944+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Joints\Double U-Joint\U-JOINT X CORE, .75 ID, 6443K94, MMC.SLDPRT</FileName>
+      <SHA1>CD4B7B71516BF5AB9D4F4D400B6FE1D66A3B85DA</SHA1>
+      <FileSize>122069</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8743969+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Rod Ends\CLEVIS ROD END, BLANK 0.3125 ID, 6414K12.SLDPRT</FileName>
+      <SHA1>EB19828031E7DE2E5D910CFD4416F3769B1D6B0E</SHA1>
+      <FileSize>257550</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5092906+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Rod Ends\ROD END, STEEL BALL JOINT ID 0.15625 8-32 Right-Hand, 60645K98, MMC.SLDPRT</FileName>
+      <SHA1>2D1C3E1897652C6491065A1D9CA429431688B2F4</SHA1>
+      <FileSize>796998</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5117866+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Rod Ends\ROD END, STEEL BALL JOINT ID 0.25 0.3125-24 Left-Hand, 60645K821, MMC.SLDPRT</FileName>
+      <SHA1>A75D5EBCFDEA83EF892BCBE5855D2B00590A3FAB</SHA1>
+      <FileSize>1169092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0073248+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Rod Ends\ROD END, STEEL BALL JOINT ID 0.25 0.3125-24 Right-Hand, 60645K822, MMC.SLDPRT</FileName>
+      <SHA1>FEFC6A94F97682FF0F9889A6A8E6F0F9A61F28E1</SHA1>
+      <FileSize>1001684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8793946+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Shaft Collars\CLAMPING SHAFT COLLAR, .75 ID, 6435K16, MMC.SLDPRT</FileName>
+      <SHA1>CC52D4516888CF340233924BCA4978384F46DB3E</SHA1>
+      <FileSize>474479</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1609352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Spacers\RING SHIM, 14MM ID X 1MM 18-8 STAINLESS STEEL, 98089A392, MMC.SLDPRT</FileName>
+      <SHA1>2D5C3B0D3F02FFB44F68BA86D2EC1010223C4511</SHA1>
+      <FileSize>70619</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8813977+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Spacers\SPACER, 0.75 ID X 0.3125 ALUMINUM UNTHREADED, 92510A493, MMC.SLDPRT</FileName>
+      <SHA1>BF37692E874830B67339CF526466BEB21BC4126A</SHA1>
+      <FileSize>294245</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8833972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Spacers\SPACER, 5.3MM ID X 3MM ALUMINUM UNTHREADED, 94669A034, MMC.SLDPRT</FileName>
+      <SHA1>6E2446D6BA0071137F4DDDF2D3E29ABEBD6088FE</SHA1>
+      <FileSize>260637</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8863941+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Spacers\WASHER, 0.3125 ID X 0.06 STAINLESS STEEL SAE, 91950A030, MMC.SLDPRT</FileName>
+      <SHA1>B36B9BCD8F094070C3D84550AC58D2DC459F1F45</SHA1>
+      <FileSize>78687</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8873965+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Spacers\WASHER, 14MM ID 18-8 STAINLESS STEEL, 98689A119, MMC.SLDPRT</FileName>
+      <SHA1>5EEB7EFE18270DE4CA2CFD58DC57AF2E50A25807</SHA1>
+      <FileSize>68629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3776560+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\DOWEL PIN, 0.125 X 0.5, 97395A441, MMC.SLDPRT</FileName>
+      <SHA1>86FA296847AB05BC5DD870925E647DB2CE6F90D3</SHA1>
+      <FileSize>81979</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8893970+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\DOWEL PIN, 0.1875 X 0.5, 98381A505, MMC.SLDPRT</FileName>
+      <SHA1>571E2DD97D05894321EAB43B2EFE97EDAA68627D</SHA1>
+      <FileSize>90626</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8913938+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\LOW CLEARANCE EXTERNAL RETAINING RING, 0.375 SIDE MOUNT, 98808A345, MMC.SLDPRT</FileName>
+      <SHA1>32C10C61C3CA205E35196EB22EC1CB5AC426446D</SHA1>
+      <FileSize>86751</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8933945+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\SNAP RING, 0.5 ID 15-7 PH STAINLESS STEEL EXTERNAL RETAINING RING, 91590A122, MMC.SLDPRT</FileName>
+      <SHA1>07642B91C4944440ACEDCA73D9022E8E7F78E9C0</SHA1>
+      <FileSize>118099</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8943976+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\SPRING ANCHOR, 8-32 X 0.875 BLACK-OXIDE STEEL EXTENSION SPRING STUD ANCHOR, 9634K22, MMC.SLDPRT</FileName>
+      <SHA1>0EE91112241A7740E124E1AD8E6B31DA01237087</SHA1>
+      <FileSize>760335</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8963962+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\TUBE-END WELD NUT, Left Hand 0.3125-24 0.75 TUBE 0.065 WALL, 94640A114, MMC.SLDPRT</FileName>
+      <SHA1>3E94401A5B19B015B726AF9197A57F15B032FDA4</SHA1>
+      <FileSize>1402592</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.8993954+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Specialized\TUBE-END WELD NUT, Right Hand 0.3125-24 0.75 TUBE 0.065 WALL, 94640A110, MMC.SLDPRT</FileName>
+      <SHA1>2F8AE5C55B9543A83CBAB5C96CA646D5A6B00A00</SHA1>
+      <FileSize>600777</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9013970+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Springs\SPRING, 0.375 OD X 1.25 STEEL MUSIC WIRE EXTENSION SPRING, 9432K62, MMC.SLDPRT</FileName>
+      <SHA1>FF4F1851A3A98EF1206AF80CDE89896D08E10A5F</SHA1>
+      <FileSize>1282132</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9043972+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Springs\SPRING, 0.5 OD X 1.75 STEEL MUSIC WIRE EXTENSION SPRING, 7383N774, MMC.SLDPRT</FileName>
+      <SHA1>6899253DF04B2DB0531D3207E14B494096E095F8</SHA1>
+      <FileSize>1203243</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3816254+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\McMaster\Washers\PVC WASHER, .812 ID 2.5 OD, 95611A316, MMC.SLDPRT</FileName>
+      <SHA1>1F57C7923BF11ED8DDA4A1B35B3D08C84C795855</SHA1>
+      <FileSize>86193</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1639350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\NKK\SWITCH, 0.25-20 THREAD TOGGLE SWITCH, M2012SD3W01, NKK.sldasm</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>580321</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T07:01:25.1315268+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\NKK\SWITCH, M2018WBW01, NKK.sldasm</FileName>
+      <SHA1>AD540A745A8D23E24F26A40ABCFE12712203CD37</SHA1>
+      <FileSize>716967</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9063944+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Omron\E-STOP BUTTON, A165E, Omron.SLDASM</FileName>
+      <SHA1>8D0F7B10B3D586108F3A0423F66B8D8714EC5FBC</SHA1>
+      <FileSize>376448</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9083938+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Pegasus\Quick Disconnect\DISCONNECT EXTERIOR, 3404, Pegasus.SLDPRT</FileName>
+      <SHA1>BF3BA2FD8C53968A1B1C58E2311A93AA78C51E74</SHA1>
+      <FileSize>126768</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9104619+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Pegasus\Quick Disconnect\DISCONNECT INTERIOR, 3404, Pegasus.SLDPRT</FileName>
+      <SHA1>744135D041A8D7495CC0F658DF2BF2D145C3C3D0</SHA1>
+      <FileSize>189624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9113964+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Pegasus\Quick Disconnect\HEX CORE, 3403, Pegasus.SLDPRT</FileName>
+      <SHA1>657CFB39C4580B45E061CEFFF53CBC22BB08F9FB</SHA1>
+      <FileSize>156379</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9133870+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Pegasus\Quick Disconnect\Quick Disconnect.SLDASM</FileName>
+      <SHA1>FC9236C599DAD15B03F9DDB7204A45AA3FA71226</SHA1>
+      <FileSize>154710</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1679343+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Pegasus\Quick Disconnect\STEEL EXTERNAL RETAINING RING, 97633A360, Pegasus.SLDPRT</FileName>
+      <SHA1>6D51A2301DC7703B81363CB27AA2AC92C790954C</SHA1>
+      <FileSize>102631</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9163825+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\SDP-SI\GEAR, 1.5 WIDTH 24 TEETH, KSSA.SLDPRT</FileName>
+      <SHA1>24EBB9238963A74BF6590538422BA9FC286D5AA5</SHA1>
+      <FileSize>520014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9203833+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\SDP-SI\kssa1_5_32.SLDPRT</FileName>
+      <SHA1>D642D9A4C0E51B7F82446E3DE6B6BBD2C68DBE3D</SHA1>
+      <FileSize>725918</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9243858+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\SDP-SI\RING GEAR, si1_5_80.SLDPRT</FileName>
+      <SHA1>AD1EA4B66A16C2DFE4A41A1DDB22FB37FE808F49</SHA1>
+      <FileSize>714063</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9223836+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sensata\9605.SLDPRT</FileName>
+      <SHA1>A7479CB5F81C14B54451A1E6EE44A05AF9454663</SHA1>
+      <FileSize>98121</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9263845+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sensata\CRASH SENSOR, Sensata.SLDPRT</FileName>
+      <SHA1>44EA0C2BC2E1A19FDB9373979FC37EF4990D7EB0</SHA1>
+      <FileSize>190860</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9283827+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\GEN 4 SIZE 4, HEAT SINK, SEVCON.SLDPRT</FileName>
+      <SHA1>30D58750D3DEA843A55AB2DEAEA7D3CDBC7C5B36</SHA1>
+      <FileSize>337401</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9293882+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\GEN 4 SIZE 4, MOTOR CONTROLLER + HEATSINK, SEVCON.SLDASM</FileName>
+      <SHA1>8979115E24EEA6C797547FE6A693F81CA152E22A</SHA1>
+      <FileSize>4906446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9343825+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\GEN 4 SIZE 4, MOTOR CONTROLLER, SEVCON.SLDPRT</FileName>
+      <SHA1>533BFA05B02224DED8D17C581A344198CF072115</SHA1>
+      <FileSize>8374413</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9413829+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\GEN 4 SIZE 6, HEAT SINK, SEVCON.SLDPRT</FileName>
+      <SHA1>AB142BA435527887CBEA826AE0DABD221A53014E</SHA1>
+      <FileSize>310784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9433867+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\GEN 4 SIZE 6, MOTOR CONTROLLER, SEVCON.SLDPRT</FileName>
+      <SHA1>71B7B756E9493D6BC81DDA2D3730E4799A3D73DD</SHA1>
+      <FileSize>8937984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9493880+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\MirrorGEN 4 SIZE 4, HEAT SINK, SEVCON.SLDPRT</FileName>
+      <SHA1>C32AF338A654621132C1F60F5FD7FABFE01BCF1A</SHA1>
+      <FileSize>502452</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9513831+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\MirrorGEN 4 SIZE 4, MOTOR CONTROLLER + HEATSINK, SEVCON.SLDASM</FileName>
+      <SHA1>EE32D1F4825BC8C20EA7E403C99B9E13C6622679</SHA1>
+      <FileSize>24720</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9523861+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Sevcon\MirrorGEN 4 SIZE 4, MOTOR CONTROLLER, SEVCON.SLDPRT</FileName>
+      <SHA1>B392A0C47BAAFF708F7377EFDEB8E544612C14CB</SHA1>
+      <FileSize>13342786</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9603832+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Tilton\BALANCE BAR, 600 SERIES 0.4375 BAR DIAMETER, 72-262, TILTON RACING.SLDPRT</FileName>
+      <SHA1>E903565EF1A313209C0C36D2FD71E2E5181A93A0</SHA1>
+      <FileSize>5579527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9653850+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Tilton\MASTER CYLINDER, 77 SERIES 0.750 BORE, 77-750, TILTON RACING.SLDPRT</FileName>
+      <SHA1>9167CDCD9ADA4576D555A8A2C456231E0BA36C8D</SHA1>
+      <FileSize>250867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9673862+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Tilton\Tilton Proportioning Valve.SLDPRT</FileName>
+      <SHA1>5CE6CB885174698E018BC6B2F113104B00DEE93D</SHA1>
+      <FileSize>200018</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9693836+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Timken\TAPERED ROLLER BEARINGS, 1.5 BORE, 0.75 CONE WIDTH, 13685-13621, TIMKEN.SLDPRT</FileName>
+      <SHA1>1BF83F1E8D637B73BFBAD0606C9A0BDF39C7D120</SHA1>
+      <FileSize>513306</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9713856+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\VCC\LED RED, 1092QC1-12V, VCC.SLDASM</FileName>
+      <SHA1>8EEFB741DF2C5C95F17873063D7BCD53CBD3BAF2</SHA1>
+      <FileSize>560612</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0113248+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Wilwood\Wilwood GP200 Caliper Assembly.sldasm</FileName>
+      <SHA1>A2F3053E88EC23304E060A718760446C74E642D1</SHA1>
+      <FileSize>1775713</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0223258+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Zero\MOTOR, ZF 75-5, ZERO.SLDPRT</FileName>
+      <SHA1>550D4AEED0BB928BC1F95D9444ADCC70A70D3678</SHA1>
+      <FileSize>8597337</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5255305+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\Zero\MOTOR, ZF 75-7, ZERO.SLDPRT</FileName>
+      <SHA1>DFFDC3683B99DCB65343B900C87FEE2A1165430B</SHA1>
+      <FileSize>4324715</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5295308+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\COTS\README.txt</FileName>
+      <SHA1>32B5876F627764484100C0B2B163AD66A77B315B</SHA1>
+      <FileSize>37</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9183849+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\Brake Light - BL\FS2-EL-BL-A-0002-V1, PCB WITH LED.SLDASM</FileName>
+      <SHA1>C7343D3167CAD7AAE8699F293D5A6D58CC33DD78</SHA1>
+      <FileSize>82260</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9893823+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\Brake Light - BL\FS2-EL-BL-P-0001-V1, BRAKE LIGHT PCB.SLDPRT</FileName>
+      <SHA1>1B5B46038CC7BDDCA36984C31F69A995FFAFA41F</SHA1>
+      <FileSize>58357</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9903856+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\Brake Light - BL\FS2-EL-BL-P-0002-V1, LED.SLDPRT</FileName>
+      <SHA1>8E083172B7B308B823914F49D3E4BC5307CDD51C</SHA1>
+      <FileSize>91383</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9923875+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-A-0001-V1, TSAL ASSEMBLY.SLDASM</FileName>
+      <SHA1>150F3F21D37DBF2A4CD4B6960FDD1959CD32D6AE</SHA1>
+      <FileSize>1930950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9973831+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-P-0001-V1, FRAME HOOK.SLDPRT</FileName>
+      <SHA1>060DF2713BBAB357ADF0CEFDBF3AA951BEFB95AA</SHA1>
+      <FileSize>151938</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9993855+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-P-0002-V1, PCB BASE.SLDPRT</FileName>
+      <SHA1>B651F870C0C3C072A1D3FFF4CBFE66D00589C3EB</SHA1>
+      <FileSize>261677</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0003842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-P-0003-V1, TOP COVER.SLDPRT</FileName>
+      <SHA1>5A9AA17CA9DBA45780AB245E47739B50359C46DE</SHA1>
+      <FileSize>117479</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0023860+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-P-0004-V1, WINDOW.SLDPRT</FileName>
+      <SHA1>D0946C790848F7F98E22DA89E374E51A638DD0E9</SHA1>
+      <FileSize>73007</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0033852+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\TSAL\FS2-EL-TSAL-P-0005-V1, PCB.SLDPRT</FileName>
+      <SHA1>DA938D4591F73C7E78CD545C82A62EA0E9452D67</SHA1>
+      <FileSize>258920</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0053828+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Electrical - EL\FS2-EL-P-0001-V1, PD BOX, TEST PART.SLDPRT</FileName>
+      <SHA1>342E18B6886952817AB0DF7440FF7917C2C42FB9</SHA1>
+      <FileSize>57783</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.9943840+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-A-0001-V1, FULL ACCUMULATOR ASSEMBLY.SLDASM</FileName>
+      <SHA1>2B3A9A25669F7D78CD9392B854F3E8E9C3AC38A0</SHA1>
+      <FileSize>1280167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:09.9854514+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-A-0002-V1, BATTERY MODULES SEGMENT.SLDASM</FileName>
+      <SHA1>1AFAAE87EAD92AE2182920D7BF6C95EDCB4CBB1F</SHA1>
+      <FileSize>1328433</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:09.9924528+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-A-0003-V1, ACCUMULATOR CONTAINER.SLDASM</FileName>
+      <SHA1>7F54DF31FD17A5278284BECB94E5CCCE5BBC3036</SHA1>
+      <FileSize>236404</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:09.9954502+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-A-0004-V1, ACCUMULATOR TRAY.SLDASM</FileName>
+      <SHA1>6FF1F76D225A3F0EFF35F742BD10F5D9A158ADBC</SHA1>
+      <FileSize>24545</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:09.9974489+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-A-0005-V1, ACCUMULATOR LID.SLDASM</FileName>
+      <SHA1>6CC8CDD77618197B7DF6BD1346E9321981E1E68F</SHA1>
+      <FileSize>20879</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:09.9994495+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0001-V1, BUS BAR, COPPER.sldprt</FileName>
+      <SHA1>BADE1058EDE282E4B75264587BD10A43187FEC3C</SHA1>
+      <FileSize>76757</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0183840+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0002-V1, VOLTAGE TAP.SLDPRT</FileName>
+      <SHA1>11CFD7AB2A118E0E9DB4E28180DE28256F8C6729</SHA1>
+      <FileSize>82501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0203860+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0003-V1-BOTTOM, SEGMENT BOTTOM PADDING.SLDPRT</FileName>
+      <SHA1>B59D882BE4651BD6F34622268BA3F1B94A47D6CE</SHA1>
+      <FileSize>52584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-13T23:56:02.6441348+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0003-V1-FRONT, SEGMENT FRONT PADDING.SLDPRT</FileName>
+      <SHA1>C359F19AE3F3DA5D7E25A4D1C60451967648706A</SHA1>
+      <FileSize>52332</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0233825+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0003-V1-FRONTBACK, SEGMENT FRONT AND BACK PADDING.SLDPRT</FileName>
+      <SHA1>0F3A9D33789E17C668EE1673745AAAF173FF7EB8</SHA1>
+      <FileSize>76298</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0014498+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0003-V1-SIDE, SEGMENT SIDE PADDING.SLDPRT</FileName>
+      <SHA1>CC1616A3DD715197C0C2B9B95CA76CDDBD2EC024</SHA1>
+      <FileSize>132601</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0034490+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0004-V1, SEGMENT TOP COVER.SLDPRT</FileName>
+      <SHA1>65F94E84700DF4BBC1AAF0F448D8F03605092467</SHA1>
+      <FileSize>108216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0054486+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0005-V1, TERMINAL BOLT RETENTION.sldprt</FileName>
+      <SHA1>2B7A955AB1C4C5F5A8216089FEA632FF3BDA91E5</SHA1>
+      <FileSize>84902</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0303865+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0006-V1, ACCUMULATOR SIDE WALL.SLDPRT</FileName>
+      <SHA1>E8CFABAED5011D51FEE8A1EA37D536088483C824</SHA1>
+      <FileSize>162486</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0074493+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0007-V1, ACCUMULATOR REAR WALL.SLDPRT</FileName>
+      <SHA1>1DD8BD70485A647A0D2DB2B3C0548DE683DBDDF0</SHA1>
+      <FileSize>189014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0104520+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0008-V1, ACCUMULATOR BASE PLATE.SLDPRT</FileName>
+      <SHA1>1BF6B5195BBAA56290E6E1E988FC43C199B76EEC</SHA1>
+      <FileSize>105900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0124507+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0009-V1, ACCUMULATOR FRONT WALL.SLDPRT</FileName>
+      <SHA1>541CF1DFA27485EA1F191EAE3687170ED3A1D8A7</SHA1>
+      <FileSize>58062</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0623273+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0010-V1, ACCUMULATOR SEGMENT SIDE WALL.SLDPRT</FileName>
+      <SHA1>D7A5120EBB75B783FD17C62E140C33014749D0F4</SHA1>
+      <FileSize>270336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0154497+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0011-V1, ACCUMULATOR SEGMENT FRONT WALL.SLDPRT</FileName>
+      <SHA1>B97F97414E870BBF8270B5E6542F4A47029235D3</SHA1>
+      <FileSize>217124</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-13T23:56:02.6641347+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0012-V1, TRAY BOARD.SLDPRT</FileName>
+      <SHA1>5AE99F9BFEAF1126ABE935BF73D9948E9ABCA26D</SHA1>
+      <FileSize>32618</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0174505+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0013-V1, 350A FUSE HOLDER.SLDPRT</FileName>
+      <SHA1>924CD85BEB5E8114A52271D676FA98192BC20A91</SHA1>
+      <FileSize>57450</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0443828+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0013-V1, FUSE HOLDER.SLDASM</FileName>
+      <SHA1>04E9B328492EC1B49D4F52A82B551CFD9390A30F</SHA1>
+      <FileSize>1088246</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0473864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0014-V1, FUSE TO CONTACTOR BUS BAR.SLDPRT</FileName>
+      <SHA1>45B66FF76B172507D0C2C58F5833C0553CC5C058</SHA1>
+      <FileSize>64413</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0493864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0015-V1, RADSOK BUS BAR.SLDPRT</FileName>
+      <SHA1>4C3BBEC80AAD8CB9DF9451823FE457079C6D5DE5</SHA1>
+      <FileSize>75719</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0503864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0016-V1, CURRENT METER BUS BAR STANDOFF.SLDPRT</FileName>
+      <SHA1>9F813BC214886713DE878144FEFFBD94966BE14A</SHA1>
+      <FileSize>51652</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0523865+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0017-V1, CURRENT METER BUS BAR.SLDPRT</FileName>
+      <SHA1>82CC339FD4A04EAFE24CD78798C76E5E5534ED02</SHA1>
+      <FileSize>63317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0533855+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0018-V1, CONTAINER SIDE FLANGE.SLDPRT</FileName>
+      <SHA1>2D0048CF77B6C0D11EAF22DE28D73FFEDEC48A94</SHA1>
+      <FileSize>45976</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0194487+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Accumlator - ACC\FS2-EN-ACC-P-0019-V1, CONTAINER FRONT FLANGE.SLDPRT</FileName>
+      <SHA1>7389245C47D1BBEC6961AD2BB330AE27C33D3192</SHA1>
+      <FileSize>33714</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:02:10.0214508+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-A-0001-V1, POWERTRAIN ASSEMBLY, ASSEMBLY.SLDASM</FileName>
+      <SHA1>B9E608CEBCC0E576436C3B8BA2D429242F9898DE</SHA1>
+      <FileSize>5164167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1729349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-A-0002-V1, PLANETARY GEARBOX, ASSEMBLY.SLDASM</FileName>
+      <SHA1>F5C5E3380DCC630FAC998AA39B9D985FF8B85054</SHA1>
+      <FileSize>1553864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1759345+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-A-0003-V1, PLANET GEAR, ASSEMBLY.sldasm</FileName>
+      <SHA1>CAB98A4F801C9E4D7A8540DD1D9C44B356B4D0C0</SHA1>
+      <FileSize>36488</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1779355+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0001-V1, POWERTRAIN MOUNTING PLATE, AL SHEET.sldprt</FileName>
+      <SHA1>5064B97D067FBAF7F0C24ABE9A4950AA33BBDC03</SHA1>
+      <FileSize>318494</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1799350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0002-V1, MOTOR WIRE, WIRE.sldprt</FileName>
+      <SHA1>66984B5168E0A21CA2DA17C8D3332DEE1CD769A8</SHA1>
+      <FileSize>227885</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1819344+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0003-V1, PLANET SHAFT, DOWEL PIN.sldprt</FileName>
+      <SHA1>62587D97D1F3776FC621D977DAEB8001D66CE5FA</SHA1>
+      <FileSize>137924</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1839344+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0004-V1, PLANET SHAFT WASHER, AL SHEET.SLDPRT</FileName>
+      <SHA1>A49D1142E4FA467CE427C6E10F7D707831A6D122</SHA1>
+      <FileSize>81732</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1859347+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0005-V1, PLANET OUTPUT.SLDPRT</FileName>
+      <SHA1>9E577A3FDF0A2DF89527B3C0D1EFF63A715D31BF</SHA1>
+      <FileSize>167759</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1879343+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0006-V1, BEARING CARRIER, AL BLOCK.sldprt</FileName>
+      <SHA1>3D1314A256AFDA1014CBFC72E899DB118DCF1CEC</SHA1>
+      <FileSize>248377</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1899350+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0007-V1, SUN RETAINER, AL SHEET.sldprt</FileName>
+      <SHA1>C7B3E2EBAD8A793A16EC5634CEE0C067E26FA94D</SHA1>
+      <FileSize>107666</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1919351+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0008-V1, PLANET CARRIER, AL BLOCK.SLDPRT</FileName>
+      <SHA1>AADCACC549501467AA72FFC6A638EE5B32D8D4A0</SHA1>
+      <FileSize>189611</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1939348+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0009-V1, SUN SPACER.sldprt</FileName>
+      <SHA1>522AE7C58A4179EB808DA3BA31899DA145BB61C3</SHA1>
+      <FileSize>185992</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1959342+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\Archive\Planetary Gearbox\FS2-EN-PT-P-0010-V1, PLANET OUTPUT.SLDPRT</FileName>
+      <SHA1>9B6BAE9917AFEF4B62B83EFA5E4E312FCBE41B0A</SHA1>
+      <FileSize>141230</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.1979349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-A-0001-V1, DRIVETRAIN ASSEMBLY, ASSEMBLY.SLDASM</FileName>
+      <SHA1>D97089EB387DC580511FEAD665FAA43AEC378262</SHA1>
+      <FileSize>3613501</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0773238+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-A-0002-V1, DRIVETRAIN POST MOTOR ASSEMBLY, ASSEMBLY.SLDASM</FileName>
+      <SHA1>A1AFB8501CCAF0AB7D50CFD911D23AAE3D3F496B</SHA1>
+      <FileSize>33493</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0793244+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-P-0003-V1, LSD MOUNTING PLATES.SLDPRT</FileName>
+      <SHA1>0903A74C41BABDD32DBB331F71F0E8326C500331</SHA1>
+      <FileSize>104425</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5375317+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-P-0004-V1, SPROCKET.SLDPRT</FileName>
+      <SHA1>EB34A3D8C70B40F586C72C7FFD6358665E4B82DF</SHA1>
+      <FileSize>2934176</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.0983263+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-P-0005-V1, MOTOR BOTTOM MOUNTING PLATE.SLDPRT</FileName>
+      <SHA1>7197DAB40EF11FE7BCF73A38165F22F23253800A</SHA1>
+      <FileSize>44528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1003255+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-P-0005-V1-INNER, INNER CHAIN.SLDPRT</FileName>
+      <SHA1>D52C605EDBDB86254FD9CD0C832CDAD32199AC58</SHA1>
+      <FileSize>145456</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5470319+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Drivetrain - DT\FS2-EN-DT-P-0005-V1-OUTER, OUTER CHAIN.SLDPRT.SLDPRT</FileName>
+      <SHA1>781817C1F41B36EE580E2AC415597449579506BA</SHA1>
+      <FileSize>191157</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:54:43.5490323+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\TSMP\FS2-EN-A-0001-V1, TSMP.SLDASM</FileName>
+      <SHA1>CC72C636B47AB35DA33BE22E6B3E915A34406DA5</SHA1>
+      <FileSize>111662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0893829+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\TSMP\FS2-EN-P-0001-V1, TSMP, ENCLOSURE.SLDPRT</FileName>
+      <SHA1>BD62D7C27162850C061AF3DEDF4B7E4A5D6ED56D</SHA1>
+      <FileSize>151812</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0923864+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\TSMP\FS2-EN-P-0001-V1, TSMP, GASKET.SLDPRT</FileName>
+      <SHA1>578D5B4A741A231F5C8A737A0FFA587E1B64ADD1</SHA1>
+      <FileSize>106257</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0943834+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\TSMP\FS2-EN-P-0001-V1, TSMP, RIGHT SIDE PANEL.SLDPRT</FileName>
+      <SHA1>F2F4C0F4F5466E0C8FE20B98C9DE9EA84C9F60DC</SHA1>
+      <FileSize>94854</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0963865+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\FS2-EN-P-0001-V1, TRIPOD HOUSING ADAENER, ASSEMBLY.sldprt</FileName>
+      <SHA1>CCBAC6018D91C2D0D7ED4BC8D78854734722D524</SHA1>
+      <FileSize>218542</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0553842+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\powertrain rear view sketch v1.SLDPRT</FileName>
+      <SHA1>9355B6CED046AAD879323F5F63D34EBDA12B7485</SHA1>
+      <FileSize>59535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0993874+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\README.txt</FileName>
+      <SHA1>45FF11202923849F574F280F749206C111F03B23</SHA1>
+      <FileSize>47</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0873868+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Engine and Drivetrain - EN\Test Frame.SLDPRT</FileName>
+      <SHA1>5E207E6679EE32D12DACE36F84454D8BF88E7462</SHA1>
+      <FileSize>89580</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.0973828+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-A-0001-V1, HUMAN ANALOG.SLDASM</FileName>
+      <SHA1>89C887E6D34AFA07B551A1F5DBE22ECC61B2C61C</SHA1>
+      <FileSize>150763</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1303248+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0001, PERCY.SLDPRT</FileName>
+      <SHA1>333611CE91303E424896C7534859D701EFB75ECD</SHA1>
+      <FileSize>61500</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1323241+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0002, Head.SLDPRT</FileName>
+      <SHA1>A5B98815345DA085B2EB4095CBDFE62225FDD129</SHA1>
+      <FileSize>112115</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1333286+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0003, TORSO.SLDPRT</FileName>
+      <SHA1>26E24440251151B8EF247088909A3348E9A18DC3</SHA1>
+      <FileSize>66741</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1343265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0004, THIGH.SLDPRT</FileName>
+      <SHA1>0E635B944C154A6D4E0E8EC29ECA0D9978492F1E</SHA1>
+      <FileSize>39227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.1353840+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0004, UPPER ARM.SLDPRT</FileName>
+      <SHA1>5F0D426315CAFAFEA200A80080237F2C1108F937</SHA1>
+      <FileSize>63053</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1363251+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0005, FOREARM.SLDPRT</FileName>
+      <SHA1>FD84A63F5C66923D1C4188E187921F7D1E73B947</SHA1>
+      <FileSize>69583</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1373245+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0006, THIGH.SLDPRT</FileName>
+      <SHA1>89209988CD81A2767E3773B885FD7135C78682BA</SHA1>
+      <FileSize>71495</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1383272+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0007, LOWER LEG.SLDPRT</FileName>
+      <SHA1>DDA25018E44FF5DE742E63B950588A3DD182253A</SHA1>
+      <FileSize>63291</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1393275+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\FS2-FR-HA-P-0008, FOOT.SLDPRT</FileName>
+      <SHA1>44EABC1132B005802D27E8487C33A9CF80752C72</SHA1>
+      <FileSize>69195</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1413267+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Human Analog - HA\Gordon_1989.pdf</FileName>
+      <SHA1>A51D8E4532138F8BEFEE2AFDE3B23B924ABF96DC</SHA1>
+      <FileSize>25615511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.1573817+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\.manufacturing_file\FS2-FR-PB-P-0008-V1-ACCELERATOR PEDAL ARM.DXF</FileName>
+      <SHA1>A06F2E009BDD4BCEDFB8B3B2E492FC5E3EE68015</SHA1>
+      <FileSize>29709</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1433237+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA-1.docx</FileName>
+      <SHA1>9BA96DAF413160A32CE239FF5F0E1EE723C99D09</SHA1>
+      <FileSize>1072076</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3856286+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA-Image-1-Icon.jpg</FileName>
+      <SHA1>6801C71F41B1E617B9FD125513A2BFC21210B3A2</SHA1>
+      <FileSize>3669</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3876835+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA-Image-1.jpg</FileName>
+      <SHA1>D79BED119759DA7052F1BEF8C947F4F4103A65EC</SHA1>
+      <FileSize>94939</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3906701+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA-Image-2-Icon.jpg</FileName>
+      <SHA1>8E9E5E66B7F1A7AA1B15E48C26811FB566AAECD9</SHA1>
+      <FileSize>4096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3936722+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA-Image-2.jpg</FileName>
+      <SHA1>CD5F91902E20E1256EE2FD7B0107161FC33CE8C6</SHA1>
+      <FileSize>105395</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.3966711+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA.CWR</FileName>
+      <SHA1>A6AFA9EDE50B8A7A62C976981002EA5EEE6AD111</SHA1>
+      <FileSize>6287360</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4039453+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA.LOG</FileName>
+      <SHA1>4E697C81D423DDF8C055CB499AFB1D6A02A1F473</SHA1>
+      <FileSize>238</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4336023+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Brake Pedal Static 2D FEA.MFC</FileName>
+      <SHA1>E5CFB5CFC11D65766E819C7818F4A3897E0AFA32</SHA1>
+      <FileSize>762</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4069420+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 2.CWR</FileName>
+      <SHA1>66216830F9320A5622DC76B736555A481ECB93F7</SHA1>
+      <FileSize>3174400</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4100389+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 2.LOG</FileName>
+      <SHA1>6B540B45990EAA2E851E8D19B9CCC0EAB90F2877</SHA1>
+      <FileSize>236</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4346020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 2.MFC</FileName>
+      <SHA1>0E43011F30DE1970FFE1998C12863C982CE7B7D1</SHA1>
+      <FileSize>607</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4130380+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875-Image-1-Icon.jpg</FileName>
+      <SHA1>F87FDC41057384A9E36443B6C96DE6AB9803B989</SHA1>
+      <FileSize>3711</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4150385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875-Image-1.jpg</FileName>
+      <SHA1>03376835CE4525D3191F6AE45DCAC110FEE98879</SHA1>
+      <FileSize>99025</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4170392+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875.CWR</FileName>
+      <SHA1>C95B8A9E5F4B9C0792BE11A189E0C0ED64BEC633</SHA1>
+      <FileSize>3747840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4211092+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875.geo</FileName>
+      <SHA1>855AF04CA783756AB90B39DD3A1B59366BB9319E</SHA1>
+      <FileSize>701446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4271066+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875.LOG</FileName>
+      <SHA1>996CEF87BEC93F21B03DF2BD14C5CE685A266261</SHA1>
+      <FileSize>236</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4366035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 3 1875.MFC</FileName>
+      <SHA1>26647C8139582171A823CEBBB81268ED79C4B0DE</SHA1>
+      <FileSize>654</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4241075+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 4-1.docx</FileName>
+      <SHA1>5AC0CD6A58C395DF3294078A493FA035CCD83FFB</SHA1>
+      <FileSize>764846</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4291076+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 4.CWR</FileName>
+      <SHA1>BAC4CC6CABACDE928E8A6155491D38B25315027C</SHA1>
+      <FileSize>6307840</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4351063+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 4.LOG</FileName>
+      <SHA1>95376B75E4FFB924BA28FA3CB2DC0E7403778D92</SHA1>
+      <FileSize>238</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4386027+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL-Static 4.MFC</FileName>
+      <SHA1>B0F31303F4368ABDC52DD545819C5268121E62F5</SHA1>
+      <FileSize>609</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4371103+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL.DSP</FileName>
+      <SHA1>E4DAC1F0E63FE0CA0684DFA3FBE4038CC034DAF2</SHA1>
+      <FileSize>587264</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4411468+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL.GEN</FileName>
+      <SHA1>8693B38600D270AC4ACA1C9FEB1686CB2DCE6E7E</SHA1>
+      <FileSize>757740</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4441484+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\FS2-FR-PB-P-0002-V2, BRAKE PEDAL.MAS</FileName>
+      <SHA1>ED75798D78D0FA8512FE3C4AA8DBEF38A5ECAF61</SHA1>
+      <FileSize>28416</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.4471536+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FEA results\PerformanceLog.txt</FileName>
+      <SHA1>0E78197C2DF523DCA479CE27D173BBA247F9554B</SHA1>
+      <FileSize>50</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4396018+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\console.log</FileName>
+      <SHA1>2EFFBFAA805E878873B65CCCCF35F0EC9F30B3E7</SHA1>
+      <FileSize>706</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.2179353+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS-2-FR-PB-P-0019-V1, PEDALBOX MOUNTING RAIL SUPPORT.SLDPRT</FileName>
+      <SHA1>890E85035E486470A25B3BB298472885D45883D8</SHA1>
+      <FileSize>52663</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1453245+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-A-0001-V1, PEDALBOX ASSEMBLY.SLDASM</FileName>
+      <SHA1>91C7A2EB2A4B6BF3F29049C1C7A9FE5B97F5C62A</SHA1>
+      <FileSize>15365198</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-21T01:00:44.2771443+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-A-0018-V1, MASTER CYLINDER RESERVOIR.SLDASM</FileName>
+      <SHA1>ECFED2B423013FD4D0DD0FE2021EFB0F662B3504</SHA1>
+      <FileSize>80783</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T07:01:25.0366460+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-A-0018-V1, PEDALBOX MOUNTING ASSEMBLY.SLDASM</FileName>
+      <SHA1>F2D856DD0504DB37A9949CF99DE16250B547390F</SHA1>
+      <FileSize>80787</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1943271+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0001-V1, PEDALBOX BASE PLATE.SLDPRT</FileName>
+      <SHA1>29C4FD83377F0A74B8AD481CAC78D80D579ACCC2</SHA1>
+      <FileSize>168068</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1963261+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0002-V2, BRAKE PEDAL CAM.txt</FileName>
+      <SHA1>993D5978050B06A1018D8EBB5C45409978529F9A</SHA1>
+      <FileSize>100660</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-29T18:32:09.7946394+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0002-V2, BRAKE PEDAL.SLDPRT</FileName>
+      <SHA1>485767BC086E0BAF779635913ACE9E27A6441737</SHA1>
+      <FileSize>431320</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2003286+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0003-V1, ACCELERATOR PEDAL MOUNT.SLDPRT</FileName>
+      <SHA1>B2DCF31BE6D97C0E8DF01C582F0E240A87DC41C4</SHA1>
+      <FileSize>202399</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5012140+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0003-V2, ACCELERATOR PEDAL MOUNT.SLDPRT</FileName>
+      <SHA1>85A2FD064BA8A607B0B73F2409BAEC328861FA62</SHA1>
+      <FileSize>147747</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5032140+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0003-V3, ACCELERATOR PEDAL MOUNT.SLDPRT</FileName>
+      <SHA1>4C13781EB88779BA2913BFEDA18B1DEC10C4F980</SHA1>
+      <FileSize>174988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4886025+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0004-V1, BRAKE PEDAL PIVOT MOUNT.SLDPRT</FileName>
+      <SHA1>067DCF58478016D91D39BB39D390E117A0CB4840</SHA1>
+      <FileSize>143535</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4916026+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0005-V1, MASTER CYLINDER MOUNT.SLDPRT</FileName>
+      <SHA1>8984104BD27C57360FC81A85353BEEF3BEACA7AB</SHA1>
+      <FileSize>114791</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4946024+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0006-V1, BRAKE PEDAL FACE.SLDPRT</FileName>
+      <SHA1>BDFC194BB12426A3091006E1B5C1D349EB4606E6</SHA1>
+      <FileSize>86167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.4966020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0007-V1, ACCELERATOR PEDAL GEOMETRY, SKETCH.SLDPRT</FileName>
+      <SHA1>4725B5A66E1A9483C3509B347D0C139E0CCC89E2</SHA1>
+      <FileSize>59072</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2303024+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0008-V1-ACCELERATOR PEDAL.SLDPRT</FileName>
+      <SHA1>5DE2E056B40D561B4C7131659A6E3295C3E28A50</SHA1>
+      <FileSize>353117</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2033257+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0009-V1, MASTER CYLINDER SPACER.SLDPRT</FileName>
+      <SHA1>749F4516EC14D4CAB51C02F30335BF943AB2770C</SHA1>
+      <FileSize>71328</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2333014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0010-V1, MASTER CYLINDER SUPPORT.SLDPRT</FileName>
+      <SHA1>3EAD0CE716950810D0A76677242008D563DAA24E</SHA1>
+      <FileSize>220629</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2353033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0011-V1, BRAKE PEDAL PIN.SLDPRT</FileName>
+      <SHA1>85F9F9AC6D61A7F75C31389B1102B8844ED7A77F</SHA1>
+      <FileSize>129121</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5026021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0012-V1, APPS MOUNT.SLDPRT</FileName>
+      <SHA1>777E5131A2C7E932AA5153CA314D7BE4E34ADEBE</SHA1>
+      <FileSize>133659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2383010+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0013-V1, ACCELERATOR PEDAL PIN.SLDPRT</FileName>
+      <SHA1>AA75BC7A35902A170C6D7F4000BB1230B79904B7</SHA1>
+      <FileSize>75948</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5159331+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0014-V1, ACCELERATOR PEDAL SPRING ADJUSTMENT PLATE.SLDPRT</FileName>
+      <SHA1>7DA1BC444A787F8337F6E1BE6C55A25289E05350</SHA1>
+      <FileSize>84978</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2413028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0014-V1, ACCELERATOR PLATE SPACER.SLDPRT</FileName>
+      <SHA1>9541FD9ADDDAB60EA6F7BEE1AB92E783A72C4AC4</SHA1>
+      <FileSize>111584</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2423012+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0015-V1, ACCELERATOR PEDAL FACE.SLDPRT</FileName>
+      <SHA1>A782AFB1962AD74123D6887E42DD7B32FD4EBC6E</SHA1>
+      <FileSize>86296</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5046024+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0016-V2, ACCELERATOR PEDAL MOUNT OPPOSITE HAND VERSION DO NOT EDIT.SLDPRT</FileName>
+      <SHA1>24163397D2B6BE11462DF44E021191E7C7EB4C3B</SHA1>
+      <FileSize>130040</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5199335+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0016-V3, ACCELERATOR PEDAL MOUNT OPPOSITE HAND VERSION DO NOT EDIT.SLDPRT</FileName>
+      <SHA1>FBF30127BBA3957216C5F2E6D84F4EFEC72998B8</SHA1>
+      <FileSize>114804</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5066020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0017-V1, BOTS MOUNT.SLDPRT</FileName>
+      <SHA1>09F6F28655F109CD56DCA0A80CC12BAB6CC6C00A</SHA1>
+      <FileSize>104931</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5086021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0017-V2, BOTS MOUNT.SLDPRT</FileName>
+      <SHA1>3446E75772F2A51C9B3BC480069C27E2412B1816</SHA1>
+      <FileSize>102721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5106021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0019-V1, PEDALBOX MOUTING RAIL.SLDPRT</FileName>
+      <SHA1>C86EB13E28F32220D0A13156D20C9CFF02612612</SHA1>
+      <FileSize>63841</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2043268+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0020-V1-ACCELERATOR PEDAL-FACE BLOCK.SLDPRT</FileName>
+      <SHA1>36A04C3ED523AF94A3010D609023DB622CB6C9AA</SHA1>
+      <FileSize>76446</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2073264+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0021-V1, MASTER CYLINDER AN FITTING.SLDPRT</FileName>
+      <SHA1>7CADED41B91A254A903ACB6B4F2FD3D7A50739F4</SHA1>
+      <FileSize>46309</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-14T06:56:37.0301601+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0022-V1, MASTER CYLINDER ACRYLIC RESERVOIR.SLDPRT</FileName>
+      <SHA1>B36A8F5FB6B68569D579B5A325730D6E1FB2EBCC</SHA1>
+      <FileSize>31460</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-14T00:26:14.4570630+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\Pedalbox - PB\FS2-FR-PB-P-0023-V1, MASTER CYLINDER RESERVOIR BOLT CAP.SLDPRT</FileName>
+      <SHA1>44B3472ECB85FEE088845F345F15D4925926B3E7</SHA1>
+      <FileSize>36816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-14T06:56:36.9382031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\TECH INSPECTION TEMPLATES\.manufacturing_file\COCKPIT OPENING TEST TEMPLATE.DXF</FileName>
+      <SHA1>C7148F69650EF90BD94D7B2944EFD0E29C807DB3</SHA1>
+      <FileSize>25470</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2093267+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\TECH INSPECTION TEMPLATES\.manufacturing_file\INTERNAL CROSS SECTION TEST TEMPLATE.DXF</FileName>
+      <SHA1>F858CC9A9E36BF3EFB4B3BB44C958BF05ED1E197</SHA1>
+      <FileSize>25900</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2113273+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\TECH INSPECTION TEMPLATES\COCKPIT OPENING TEST TEMPLATE.SLDPRT</FileName>
+      <SHA1>896F2B2489E1839D2B79C42B216855644B46AB3C</SHA1>
+      <FileSize>72309</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2133267+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\TECH INSPECTION TEMPLATES\INTERNAL CROSS SECTION TEST TEMPLATE.SLDPRT</FileName>
+      <SHA1>181E25CCEE8283E91ED341048747ED1C16D399DE</SHA1>
+      <FileSize>67812</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2153257+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-A-0001-V1, FRAME SUBSYSTEM. FR MODEL.SLDASM</FileName>
+      <SHA1>F6E17A41E7174FC0244F34447017C3B2A5682904</SHA1>
+      <FileSize>854361</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1223265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-P-0001-V1. FR MODEL.SLDPRT</FileName>
+      <SHA1>DDA614AC9B1A8D31C1B72033AA2572328DFCA51E</SHA1>
+      <FileSize>1461343</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.1293256+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-P-0001-V2. FR MODEL EXPERIMENTAL.SLDPRT</FileName>
+      <SHA1>C35AFE02ED4C48C07EB702A46525C8BC82EC437B</SHA1>
+      <FileSize>521092</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.1153866+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-P-0006-V1, SUSPENSION TABS.SLDPRT</FileName>
+      <SHA1>C5B90DE0BE2C6F356BD43F9AD1A575FD6C35B582</SHA1>
+      <FileSize>114035</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.1233863+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-P-0008-V1, DASH TABS.SLDPRT</FileName>
+      <SHA1>17149E4445783308EC13A40E21A819A54AFC6511</SHA1>
+      <FileSize>88877</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.1263839+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\FS2-FR-P-0010-V1-1.5, FRAME MOUNTING CLEVIS.SLDPRT</FileName>
+      <SHA1>D173B118C2D7313058DD9976794D68BB326303EE</SHA1>
+      <FileSize>117327</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.2159349+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Frame &amp; Body - FR\README.txt</FileName>
+      <SHA1>F68366D1C17EB2DEF90117D91B5B60670592E93A</SHA1>
+      <FileSize>49</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2473046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\Brake Light Additive Manufacturing Files\Brake_Light_Cover_1.form</FileName>
+      <SHA1>E866E371A79A485EFB44BF857A97810F27F76D1B</SHA1>
+      <FileSize>448801</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2513032+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\Brake Light Additive Manufacturing Files\Part1^Brake Light Assembly.STL</FileName>
+      <SHA1>8522E28FCAFEBC3A6A49B60BB7640B37425C4330</SHA1>
+      <FileSize>287284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2533054+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\Brake Light Additive Manufacturing Files\Part2^Brake Light Assembly.STL</FileName>
+      <SHA1>F14CC0F685668EF8DCFDDCA46543B4D871B013E5</SHA1>
+      <FileSize>131184</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2553049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\FS2-MS-BLH-A-0001-V1, BRAKE LIGHT.SLDASM</FileName>
+      <SHA1>226984377F9192469C443AEECC634901CDEBEF0D</SHA1>
+      <FileSize>244222</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2563052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\FS2-MS-BLH-P-0003-V1, BRAKE LIGHT CASE BASE.sldprt</FileName>
+      <SHA1>457BE1795FA91B705D8436C7DE24DBABAB7AC588</SHA1>
+      <FileSize>239069</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2583010+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\FS2-MS-BLH-P-0004-V1, BRAKE LIGHT CASE RETENTION.sldprt</FileName>
+      <SHA1>AD7B9A783E0E7D0A9F658EE9054D1AEE0C24C46E</SHA1>
+      <FileSize>136889</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2593014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\Brake Light Housing - BLH\FS2-MS-BLH-P-0005-V1, BRAKE LIGHT CASE COVER.sldprt</FileName>
+      <SHA1>14BF088F2E65529720C92A78AD60992824462BD7</SHA1>
+      <FileSize>257667</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2613014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\FS2-MS-P-0001-V1, FIREWALL, ALUMINUM LAYER.sldprt</FileName>
+      <SHA1>3FCD5BA2F1773ECF00973B0A2D0BD07D8C6B5F5C</SHA1>
+      <FileSize>132237</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-31T00:00:28.5524364+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Miscellaneous, Finish and Assembly - MS\README.txt</FileName>
+      <SHA1>C2052C0122035D40452AC65989A94E0A40EA2A77</SHA1>
+      <FileSize>41</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2653046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0001-V1, Bearing Housing.SLDPRT</FileName>
+      <SHA1>4E8329845E20EC8F04351D076B69AE97AF767EF2</SHA1>
+      <FileSize>102960</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1285921+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0002-V1, Right Steering Column Support Tube.SLDPRT</FileName>
+      <SHA1>804839CBB3A2B77B51BAFDF096A3A6EF1AF2F384</SHA1>
+      <FileSize>96721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1310916+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0002-V1, Square Tube Support.SLDPRT</FileName>
+      <SHA1>9CF37791417189A00C68C3A81CEBCEF17F03A4D9</SHA1>
+      <FileSize>67871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2733013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0003-V1, Left Steering Column Support Tube.SLDPRT</FileName>
+      <SHA1>705349D62DD56DD4D30BD67FB931B4A6796EFF11</SHA1>
+      <FileSize>101787</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1335924+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0004-V1, Mid-Shaft Bearing Housing.SLDPRT</FileName>
+      <SHA1>1C1BB3AC092812EEFACFC49CD07FBD4AAE0A56F9</SHA1>
+      <FileSize>31855</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2763049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0005-V1, U-Joint Support Tube.SLDPRT</FileName>
+      <SHA1>60CCC38D88E1570E4A305772A56937995E4D08A7</SHA1>
+      <FileSize>41401</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.2269358+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Bracket - BRA\FS2-ST-BRA-P-0006-V1, BEARING SPACER.SLDPRT</FileName>
+      <SHA1>B492EC2BAE791968D76F28D29BFF0F83ED318FDC</SHA1>
+      <FileSize>71788</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.2289345+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS1-ST-DSH-P-V1, Dash Bearing Panel Spacer.SLDPRT</FileName>
+      <SHA1>E82EC2C71625A29364DCEB3472B06BAF892E2755</SHA1>
+      <FileSize>98850</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2783050+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS1-ST-DSH-P-V1, Dash Buttons Rear Cover.SLDPRT</FileName>
+      <SHA1>4AE81C432B6BF2347D46291557BA8293F91E61BD</SHA1>
+      <FileSize>2390474</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2813048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS1-ST-DSH-P-V1, Dash Buttons Rear Cover.STL</FileName>
+      <SHA1>63BDD026C1BEA33D9FDF36FD96AFD7BAFACF79CF</SHA1>
+      <FileSize>274284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2823051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS1-ST-DSH-P-V1, Dash Front Panel.SLDPRT</FileName>
+      <SHA1>609FFC4AF27D0039D243EC260B9F4DE7E506F5B3</SHA1>
+      <FileSize>321196</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2843011+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS1-ST-DSH-P-V1, Dash Rear Panel.SLDPRT</FileName>
+      <SHA1>A5E71C2B336E8117494D9D4369BBBDB3590990C0</SHA1>
+      <FileSize>144552</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2863033+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Dash - DSH\FS2-ST-DSH-P-0001-V1, Dash Mounting Plate.SLDPRT</FileName>
+      <SHA1>9F7830FBD9BE4AE5685A9359797DB2A58D709178</SHA1>
+      <FileSize>72529</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2873047+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Shaft - SHA\FS2-ST-SHA-P-0001-V1, Steering Wheel Shaft.SLDPRT</FileName>
+      <SHA1>F39E1C0422B164A113425A9280975D7B4FC3AA8E</SHA1>
+      <FileSize>30422</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1445927+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Shaft - SHA\FS2-ST-SHA-P-0002-V1, Steering Column Shaft.SLDPRT</FileName>
+      <SHA1>0F6229C0AFD2B1D268388655CE029BCDB1E5862B</SHA1>
+      <FileSize>31763</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2243255+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Shaft - SHA\FS2-ST-SHA-P-0003-V1, Steering Rack Shaft.SLDPRT</FileName>
+      <SHA1>FB69676DA761605DC0CC50A83D227BC1A5AC0FC7</SHA1>
+      <FileSize>237938</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T23:48:31.1485925+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\FS2-ST-SW-A-V1, Steering Wheel.SLDASM</FileName>
+      <SHA1>3AC5A14EC65B66B62083E18198B6C96E983DA801</SHA1>
+      <FileSize>217662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2263252+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\FS2-ST-SW-P-0001-V2, Steering Wheel center Structure.SLDPRT</FileName>
+      <SHA1>7FE8F0A94766A8F701D8297FE0C76CF84C485B4F</SHA1>
+      <FileSize>117921</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-31T03:09:20.3177052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\FS2-ST-SW-P-0002-V2, Front Grip.SLDPRT</FileName>
+      <SHA1>C4A67C88F0FA1773003A79CB71F0918029056E42</SHA1>
+      <FileSize>65730</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2283261+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\FS2-ST-SW-P-0003-V2, Back Grip.SLDPRT</FileName>
+      <SHA1>3AD7A329EB5F491E8D49E058375A3D574046D900</SHA1>
+      <FileSize>49586</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2303265+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\FS2-ST-SW-P-V1, Steering Wheel Back Grip.SLDPRT</FileName>
+      <SHA1>28604C0CA1A67D163E5DE88F574B338354784EBC</SHA1>
+      <FileSize>106181</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3073048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\MirrorFS2-ST-SW-P-0002-V2, Front Grip.SLDPRT</FileName>
+      <SHA1>128513B8B300FA81E3432E7C669906180B11011F</SHA1>
+      <FileSize>101165</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2323242+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\Steering Wheel - SW\MirrorFS2-ST-SW-P-0003-V2, Back Grip.SLDPRT</FileName>
+      <SHA1>14BF55DEAB621EDD79EDFA623E5F90F83409FF05</SHA1>
+      <FileSize>56286</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2343243+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\console.log</FileName>
+      <SHA1>EA0A486FF254F023B2CCEF833ECF9078F280E583</SHA1>
+      <FileSize>353</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:15:05.2549365+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\FS2-ST-A-0001-V1, Steering Assembly.SLDASM</FileName>
+      <SHA1>2C79BEE5B4FDDF8C2863AF8B30544288B7A24497</SHA1>
+      <FileSize>12564612</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2233269+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Steering System - ST\README.txt</FileName>
+      <SHA1>A112DE471853DAFB9270F735E21AE65C44CC8B24</SHA1>
+      <FileSize>43</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2933037+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\Steering - ST\FS2-SU-FS-ST-A-0001-V1, FS TIE ROD ASSEMBLY.SLDASM</FileName>
+      <SHA1>2D399889B602D670FB18F394DE60397DCC24A0BD</SHA1>
+      <FileSize>3247213</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3743032+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\Steering - ST\FS2-SU-FS-ST-P-0001-V1, FS TIE ROD TUBE.SLDPRT</FileName>
+      <SHA1>95EC54BD58DBF31980CDCC5691D200143B7C447A</SHA1>
+      <FileSize>54723</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3753009+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\BOLT, 0.3125-18 STEEL HEX, 91268A521, MMC.SLDPRT</FileName>
+      <SHA1>157CF67B0C4525FDCBC60969447272B7E91B3405</SHA1>
+      <FileSize>682957</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:56:48.4225654+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\Front Suspension Sideview Sketch V1.SLDPRT</FileName>
+      <SHA1>615C374AD318E1FA71EEC84A970AE99B40E49516</SHA1>
+      <FileSize>69527</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3703051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0001-V1, FRONT SUSPENSION.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>7468824</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:24.6626235+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0002-V1, FRONT LEFT SUSPENSION.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>6759982</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:24.3774794+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0002-V1, FRONT WHEEL ASSEMBLY.SLDASM</FileName>
+      <SHA1>F1A994B598704018C534E004F95951B4F7B7D7D3</SHA1>
+      <FileSize>41981</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3413031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0002-V1-R, FRONT RIGHT SUSPENSION, OPPOSITE HAND VERSION DO NOT EDIT.SLDASM</FileName>
+      <SHA1>92C1773DC14AB1C64E41999F8C41FDA65C4BDC12</SHA1>
+      <FileSize>66553</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3003236+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0002-V1-R, FRONT WHEEL ASSEMBLY, OPPOSITE HAND VERSION DO NOT EDIT.SLDASM</FileName>
+      <SHA1>7625815F1DED9C45B9A845F1CF38D6B812375583</SHA1>
+      <FileSize>49716</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3023237+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-A-0003-V1, FRONT WHEEL ASSEMBLY.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>1892396</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:23.7960899+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0001-V1, UPPER A ARM BEARING PLATE.SLDPRT</FileName>
+      <SHA1>5041FD592840E34825D0AB7AEAEDA98966924C9E</SHA1>
+      <FileSize>110847</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3483048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0002-V1-FL, FS FRONT LOWER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>53932</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:23.9915039+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0002-V1-FU, FS FRONT UPPER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65000</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:24.1944455+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0002-V1-RL, FS REAR LOWER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>54022</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:23.9301759+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0002-V1-RU, FS REAR UPPER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>63914</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:24.1036348+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0003-V1, PUSH ROD MOUNTING TAB.SLDPRT</FileName>
+      <SHA1>EB1ED1CB95B282CB79B78550092DE6A6CA06D339</SHA1>
+      <FileSize>55317</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3553014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0004-V1, PUSH ROD TUBE.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65156</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:59:23.8707796+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0005-V1, FRONT UPRIGHT.SLDPRT</FileName>
+      <SHA1>0C805335031C9DE55F0E19BFD5EE9C816E6AC079</SHA1>
+      <FileSize>278560</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3583012+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0005-V1-R, FRONT UPRIGHT, OPPOSITE HAND VERSION DO NOT EDIT.SLDPRT</FileName>
+      <SHA1>6CCB2917791C986381C4399582DB85364524CD7F</SHA1>
+      <FileSize>138659</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3603029+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0006-V1, FS LOWER UPRIGHT TAB.SLDPRT</FileName>
+      <SHA1>5D1FAEA8150903AF3777546FBB7F5BEF360F2B2B</SHA1>
+      <FileSize>84495</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3633038+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0006-V1, FS UPPER UPRIGHT CLAW.SLDPRT</FileName>
+      <SHA1>0B383221D74550AA544EE1BE4C3C1F3613D266FD</SHA1>
+      <FileSize>71336</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3643051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0007-V1, SPINDLE RETENTION PLATE.SLDPRT</FileName>
+      <SHA1>AE115F17B3B576058A87093B93034EE214CEF159</SHA1>
+      <FileSize>128533</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3653012+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0008-V1, SHOCK ABSORBER MOUNTING PLATE.SLDPRT</FileName>
+      <SHA1>5B328CE651F975FB5851B25FF09BD04DBFE15184</SHA1>
+      <FileSize>42002</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3673013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0009-V1, ROCKER ARM PLATE-Static 1.CWR</FileName>
+      <SHA1>8D4CAE6EF714DB28EEDF4E6DC2520C23F18949D9</SHA1>
+      <FileSize>6148096</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3253250+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0009-V1, ROCKER ARM PLATE-Static 1.LOG</FileName>
+      <SHA1>C234FA07B285813848CD68C3D724D9203A83E339</SHA1>
+      <FileSize>238</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3273273+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0009-V1, ROCKER ARM PLATE-Static 1.MFC</FileName>
+      <SHA1>2B55FBF7676B3D098DF404D1A51845C609C5CB90</SHA1>
+      <FileSize>649</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3293253+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0009-V1, ROCKER ARM PLATE.SLDPRT</FileName>
+      <SHA1>67C9130A76339DABCEE66922C81AAA74502AC6CB</SHA1>
+      <FileSize>154792</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:52:19.2671757+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0009-V1, ROCKER PLATE.SLDPRT</FileName>
+      <SHA1>273AFBFE35F393F964809C5CE9A7037C359C73A2</SHA1>
+      <FileSize>42144</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3683040+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0010-V1, SHOCK ABSORBER MOUNTING PLATE-Static 1.CWR</FileName>
+      <SHA1>82B5DD955FC34601390BFA5FEAB65C14FFCACE4A</SHA1>
+      <FileSize>3092480</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T22:50:09.8180000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0010-V1, SHOCK ABSORBER MOUNTING PLATE-Static 1.LOG</FileName>
+      <SHA1>9A916D123A365DA0FC383977A1D75EB4350447C9</SHA1>
+      <FileSize>236</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T22:50:09.7015678+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0010-V1, SHOCK ABSORBER MOUNTING PLATE-Static 1.MFC</FileName>
+      <SHA1>3CFA6A4A7788E8E189828109DE2A457FC2737EB4</SHA1>
+      <FileSize>751</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T22:50:09.7785673+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0010-V1, SHOCK ABSORBER MOUNTING PLATE.SLDPRT</FileName>
+      <SHA1>0E5887FB4450313EC963DCCFBDAEAB479BDD892A</SHA1>
+      <FileSize>167172</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T07:38:46.5779206+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0011-V1, SHOCK ABSORBER SPACER.SLDPRT</FileName>
+      <SHA1>0491EAB111269286BECF4183BD311FB1B9EB72BF</SHA1>
+      <FileSize>72861</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5266024+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0012-V1, PUSH ROD SPACER.SLDPRT</FileName>
+      <SHA1>FE443545E5E5ED53F833E568DDCFC34856992A73</SHA1>
+      <FileSize>81550</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T07:47:41.5286019+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0013-V1, ROCKER TO FRAME PLATE.SLDPRT</FileName>
+      <SHA1>6D0FBF1C6310FBD1A2DEAACADBBDEE8BC775980D</SHA1>
+      <FileSize>82586</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:52:19.2691772+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\FS2-SU-FS-P-0014-V1, ROCKER TO PLATE SPACER.SLDPRT</FileName>
+      <SHA1>9F211219CC83C98FDA1121589640D8D9CBD34FDD</SHA1>
+      <FileSize>85475</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T06:52:19.2701759+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\LOCKNUT, 0.3125-18 STEEL NYLON INSERT, 97135A220, MMC.SLDPRT</FileName>
+      <SHA1>A16DBED2C90F8FE43C97C0C9150E4C89B84B806F</SHA1>
+      <FileSize>470663</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-30T08:56:43.3923548+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Front Suspension - FS\PerformanceLog.txt</FileName>
+      <SHA1>0E78197C2DF523DCA479CE27D173BBA247F9554B</SHA1>
+      <FileSize>50</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-23T22:50:08.9541003+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-FS-A-0003-V1, REAR WHEEL ASSEMBLY.SLDASM</FileName>
+      <SHA1>9D28E40B67C70138A1CAD0806189D28C70D0C0BF</SHA1>
+      <FileSize>239928</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3343254+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-A-0001-V1, REAR SUSPENSION.SLDASM</FileName>
+      <SHA1>56A5AAFE4C399D04DB4AB0765152EDB600FED494</SHA1>
+      <FileSize>1974514</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3423234+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-A-0002-V1, REAR LEFT SUSPENSION.SLDASM</FileName>
+      <SHA1>E1EFDBDB63EDC11AE9E373CA87A860BC59A9B405</SHA1>
+      <FileSize>2053142</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3503253+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0001-V1, REAR UPRIGHT.SLDPRT</FileName>
+      <SHA1>03EF1A7FD39E593A81B3C1EB223CB9A84ADDDC59</SHA1>
+      <FileSize>176746</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3863045+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0002-V1-FL, RS FRONT LOWER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>A1F19889502CDF18F9E540F100E7DF836B80E0E1</SHA1>
+      <FileSize>130511</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3533278+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0002-V1-FU, RS FRONT UPPER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>79E5FBE584152EC16A7316A8FA0CD0637434B2B2</SHA1>
+      <FileSize>124256</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3893051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0002-V1-RL, RS REAR LOWER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>94DCC43D2FCC185EB5E84E687DFEFD0C4BD38B4F</SHA1>
+      <FileSize>113536</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3563262+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0002-V1-RU, RS REAR UPPER A ARM TUBE.SLDPRT</FileName>
+      <SHA1>7C1DB9808CB83C210D836765398C1766F09373D5</SHA1>
+      <FileSize>132228</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3923045+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0003-V1, REAR PUSH ROD MOUNTING TAB.SLDPRT</FileName>
+      <SHA1>FDD0B83E00459F1445A47082E537D5708D69503F</SHA1>
+      <FileSize>70237</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3933013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0004-V1, TOP A ARM BEARING PLATE.SLDPRT</FileName>
+      <SHA1>65AF07C78A7728A49FA85AFFB766B885AEC15E12</SHA1>
+      <FileSize>95505</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3953048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0005-V1, REAR UPRIGHT.SLDPRT</FileName>
+      <SHA1>F7C4BD9354D4E8F3A4D80459DBDEB3EE071035B4</SHA1>
+      <FileSize>197653</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3973029+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\FS2-SU-RS-P-0009-V1, LOWER A ARM PLATE.SLDPRT</FileName>
+      <SHA1>96677BF6B9FDE15ED017CCBB3D1EAC4F8E4EDCE2</SHA1>
+      <FileSize>98139</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3583239+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\Rear Suspension - RS\Rear Suspension 3D Sketch.SLDPRT</FileName>
+      <SHA1>D46D106ED134823FA0B6B9309FB7E38B52AB2125</SHA1>
+      <FileSize>65717</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3993014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-A-0002-L, LEFT HAND ROD END TUBE END ASSEMBLY.SLDASM</FileName>
+      <SHA1>914F7F5E0033FCE05622BCF79D8C6A74DA1304C3</SHA1>
+      <FileSize>1965576</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2423240+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-A-0002-R, RIGHT HAND ROD END TUBE END ASSEMBLY.SLDASM</FileName>
+      <SHA1>B201849ED552601FE797160D40F37C472846F1F3</SHA1>
+      <FileSize>1340432</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2483258+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-A-0003, BIG CLAW END TUBE END ASSEMBLY.SLDASM</FileName>
+      <SHA1>6556089BBB4D839B6457FC40CE31B89522A486EB</SHA1>
+      <FileSize>96951</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2513269+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-A-0003, SMALL CLAW END TUBE END ASSEMBLY.SLDASM</FileName>
+      <SHA1>196D2C16DC453FFE9B9227F25B82C27BD5F780EF</SHA1>
+      <FileSize>101016</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.2533242+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-FS-P-0005-V1, REAR UPRIGHT.SLDPRT</FileName>
+      <SHA1>0A0D9AE476BDBEB8169E880C371F20D736BE91D2</SHA1>
+      <FileSize>41835</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3203035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-P-0001-V1, SPHERICAL BEARING CLAW SMALL.SLDPRT</FileName>
+      <SHA1>B31894B81AAFB916D8264BD49ADCEC956B3592F3</SHA1>
+      <FileSize>287151</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3223011+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-P-0002-V1, SPHERICAL BEARING CLAW BIG.SLDPRT</FileName>
+      <SHA1>EE2C65ADF27F9D3C6509AC4DCC7C7F9B8F462789</SHA1>
+      <FileSize>279959</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3233048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-P-0003-V1-L, SUSPENSION TAB LONG.SLDPRT</FileName>
+      <SHA1>431389B350463CE625F2754EBD55CD54EC644DA1</SHA1>
+      <FileSize>219033</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3253056+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\FS2-SU-P-0003-V1-S, SUSPENSION TAB SHORT.SLDPRT</FileName>
+      <SHA1>56334D0B81A1E62D3FF8A479F7B728B4C1B8C288</SHA1>
+      <FileSize>221867</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3273019+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Suspension System - SU\README.md</FileName>
+      <SHA1>BBFC0096554E2A69496C971347F5A2A2296EB309</SHA1>
+      <FileSize>227</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.3773049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Wheels, Wheel Bearings and Tires - WT\FS2-WT-A-0001-V1, FRONT TIRE.SLDASM</FileName>
+      <SHA1>08BA71B81F375855A8EB48F3BD4EA7CB37129A50</SHA1>
+      <FileSize>903684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3633240+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Wheels, Wheel Bearings and Tires - WT\FS2-WT-A-0002-V1, REAR TIRE.SLDASM</FileName>
+      <SHA1>CF6EC59711374BBE65B2E9637EC1FDB93B51C0E6</SHA1>
+      <FileSize>902950</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-06T02:24:31.3683252+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Wheels, Wheel Bearings and Tires - WT\FS2-WT-P-0001-V1, SPINDLE RETENTION PLATE.SLDPRT</FileName>
+      <SHA1>AE115F17B3B576058A87093B93034EE214CEF159</SHA1>
+      <FileSize>128533</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4063044+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Wheels, Wheel Bearings and Tires - WT\FS2-WT-P-0002-V1, FRONT HUB.sldprt</FileName>
+      <SHA1>E3E0786C1580E2F4FDA69E5CA9F354E557D54B86</SHA1>
+      <FileSize>251294</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4073014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Wheels, Wheel Bearings and Tires - WT\README.txt</FileName>
+      <SHA1>516F49C5316D3618C47ADB7094D398047AEE5F30</SHA1>
+      <FileSize>64</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4093005+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\#4 Controller and Heat Sink.SLDASM</FileName>
+      <SHA1>F8E485C8F13DE94470812653AD06BC634BAF61C2</SHA1>
+      <FileSize>52657543</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5499988+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\#4 Heat Sink.SLDPRT</FileName>
+      <SHA1>5873D7810F40A8A1FFAD01F2FF707418142E148A</SHA1>
+      <FileSize>339879</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5519979+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\#6 Heat Sink.SLDPRT</FileName>
+      <SHA1>AB142BA435527887CBEA826AE0DABD221A53014E</SHA1>
+      <FileSize>310784</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5550025+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\CONTROLLER SIZE 4.SLDPRT</FileName>
+      <SHA1>A9B1104389FE3F8C5E3CDC9980659A8814333675</SHA1>
+      <FileSize>8308994</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5620193+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\CONTROLLER SIZE 6.SLDPRT</FileName>
+      <SHA1>71B7B756E9493D6BC81DDA2D3730E4799A3D73DD</SHA1>
+      <FileSize>8937984</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5690200+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\Zero Parts\ZF 75-7 MOTOR.SLDPRT</FileName>
+      <SHA1>0D234CAE781168F07B1848D766FC40B32A0278D3</SHA1>
+      <FileSize>4076878</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-18T02:30:57.5730156+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\BOM-Template.sldbomtbt</FileName>
+      <SHA1>A87880E47E9A138B750D5828A29CBD038BB07279</SHA1>
+      <FileSize>11025</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5580385+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\BOM.xlsx</FileName>
+      <SHA1>F56EDC6BA60F3FB7ADE6074DADBF88A35E194807</SHA1>
+      <FileSize>20305</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:50.5590352+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\FS2-A-0001-V1, FULL CAR ASSEMBLY.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>35929524</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-02-15T07:00:41.4033569+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Racecar\README.md</FileName>
+      <SHA1>BB2E213B757CFA343154BC2F0D6C4826F594D4FA</SHA1>
+      <FileSize>5487</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.2673053+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 CDS Competition Season\Knowledge Event\2021_FSAE_Cost_Event_Description_-_FINAL.pdf</FileName>
+      <SHA1>83C3401E55EAAD6F42AA7206BBCF8155B71A5C90</SHA1>
+      <FileSize>128269</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4123038+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 CDS Competition Season\Knowledge Event\2021_FSAE_Design_Event_Description_-_FINAL.pdf</FileName>
+      <SHA1>A552756D664917B9982B8020C7FD018BC14596A4</SHA1>
+      <FileSize>123546</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4133054+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 CDS Competition Season\Knowledge Event\2021_FSAE_Presentation_Event_Description_-_Final (1).pdf</FileName>
+      <SHA1>A76BAD0965A3521211E4AAF4A8CA6E1D4270BB4E</SHA1>
+      <FileSize>121404</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4153050+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\Rules References\Approved_Transponder_List.docx</FileName>
+      <SHA1>06EE836C6767633DB85822EA6864073BBC7D240D</SHA1>
+      <FileSize>13676</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4193017+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\Rules References\CDS_standards_as_of_9.2019_published_online.xlsx</FileName>
+      <SHA1>7EF64294F10821B3859F1F29E326D64FE1BCE8BF</SHA1>
+      <FileSize>13210</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4213047+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\Rules References\fsaequickjack (1).pdf</FileName>
+      <SHA1>D2A719A612928FE6444FC7DF529CBD50334B864A</SHA1>
+      <FileSize>453159</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4243049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\Rules References\fsaequickjack.pdf</FileName>
+      <SHA1>D2A719A612928FE6444FC7DF529CBD50334B864A</SHA1>
+      <FileSize>453159</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4263028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\Rules References\Fuels_2020.pdf</FileName>
+      <SHA1>905ADBF58537FE24AC31F773801E36A4300F7E30</SHA1>
+      <FileSize>13014</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4233016+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\2021 Rules and References\FSAE_Rules_2021_V1.pdf</FileName>
+      <SHA1>E9AD4D911EDF541631D3B4CBC583B6595BC21640</SHA1>
+      <FileSize>1942395</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4183028+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Cost Event\Reference Documents\Formula_SAE_Cost_Module_Operations_Guideline_-FINAL_Copy.pdf</FileName>
+      <SHA1>D5BB59279E7AF189BFF6506C793AB6167B3C738A</SHA1>
+      <FileSize>1068333</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4303023+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Cost Event\Templates\FSAE_Cost_Addendum_(2).xlsx</FileName>
+      <SHA1>FECB43DD744723CA47594AEF8F4198EC91BEDB28</SHA1>
+      <FileSize>25856</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4323049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Cost Event\Templates\FSAE_Cost_eBOM_Template.xls</FileName>
+      <SHA1>6814329CBE6DFDBA4B904D7967E5AD2E0F876F66</SHA1>
+      <FileSize>100352</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4343013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Cost Event\FSAE_Cost_Supplement_V20.pdf</FileName>
+      <SHA1>B1D621C1C222595BE25C50F6410404FFE8431C1B</SHA1>
+      <FileSize>375189</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4283017+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\Carroll_Smith_FSAE_Design_Paper.docx</FileName>
+      <SHA1>F1FE6F82D1254F69F5F91055215E57350DF4366E</SHA1>
+      <FileSize>17193</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4393013+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\Cockpit_Control_Forces_SI_SAE.pdf</FileName>
+      <SHA1>FFC936922559598E4B1DFDBE4BEE2FF965FB7C86</SHA1>
+      <FileSize>297259</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4403014+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\EV_Design_Score_Sheet_150pt_April25_2013.pdf</FileName>
+      <SHA1>FC660B58E2FBF261B49B548D257D3400756FD969</SHA1>
+      <FileSize>92164</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4423049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\FSAE_Design_Score_Sheet_150pt_2020.pdf</FileName>
+      <SHA1>A1304E9DB1A24C7C702ABEFF2E74C94BA0F2AC3F</SHA1>
+      <FileSize>126974</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4443035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\FSAE_Rules95th_2016.pdf</FileName>
+      <SHA1>DD06E1947EF2DEB11D36148883EB7029FE5F1EA7</SHA1>
+      <FileSize>144058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4453051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\Threaded_Fasteners_for_FSAE.pdf</FileName>
+      <SHA1>F88614CF48A7B026044082E87AEF75B4ACCC1D75</SHA1>
+      <FileSize>1666670</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4473020+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\Reference Documents\Three_View_Drawing_Excellence.pdf</FileName>
+      <SHA1>4753AC8E1A869D9EEA6D605E9D70E9F62FBE9B52</SHA1>
+      <FileSize>79614</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4493015+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\2020-Design-EV-Spec-Sheet-Template_(1).xlsx</FileName>
+      <SHA1>632F9E57D4C4179D7E1F5AEA03767094FF89B276</SHA1>
+      <FileSize>36193</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4353031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Design Event\2020_FSAE_-Design_IC_Spec_Sheet_-_template_rev2018_10_19.xlsx</FileName>
+      <SHA1>A3400FEC1A2C35AEAAE48193640EAC09DE920D51</SHA1>
+      <FileSize>38756</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4373035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Presentation Event\2021_FSAE_Presentation_Event_Description_-_Final.pdf</FileName>
+      <SHA1>A76BAD0965A3521211E4AAF4A8CA6E1D4270BB4E</SHA1>
+      <FileSize>121404</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4513027+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\SAE CDS Resources\FSAE_Workshop_Fall_2018_Sponsorship_Adams_Presentation_(1).pptx</FileName>
+      <SHA1>A2D108E2223A4F724E4E86F7572585F8A0660235</SHA1>
+      <FileSize>5627216</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4563037+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\SAE CDS Resources\Organizing_a_Formula_SAE_by_Alan_Gruner.pdf</FileName>
+      <SHA1>AD69E52B30F475F686E9281EC3B8C30E44C2E12F</SHA1>
+      <FileSize>275746</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4583016+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\SAE CDS Resources\SAE_Student_Management_02_25_2008_(1).pdf</FileName>
+      <SHA1>3E9547543B766C83213D6D9AB68A0C6F68FF6FBF</SHA1>
+      <FileSize>48938</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4603039+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Team Administration\Team_Administration_Submission_Requirement_(2).pdf</FileName>
+      <SHA1>DCB96057EA820FA4CF436F22A982998BEBE4FD42</SHA1>
+      <FileSize>134789</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4613052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Energy Meter Resources\EnergyMeter_2.0.0.zip</FileName>
+      <SHA1>4EA9C4F10A8E0B7B9D03AAFEB37CA4C0D51EA640</SHA1>
+      <FileSize>13342076</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4753009+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Energy Meter Resources\Energy_Meter_CAN_Messages.dbc</FileName>
+      <SHA1>84FC7C04E3D098A48D1F796EC5F0F383BE783AB7</SHA1>
+      <FileSize>1273</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4773051+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Energy Meter Resources\User_Manual_2.10.2020.pdf</FileName>
+      <SHA1>61D268887B2923C7184F2502F4325C138398362F</SHA1>
+      <FileSize>555038</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4793052+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Reference Files\ESF_Template_Example.xlsx</FileName>
+      <SHA1>C1274A141EBA56C7E277966D9A7190D212B4249B</SHA1>
+      <FileSize>4564390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4833039+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Reference Files\EV_Charging_Requirements.doc</FileName>
+      <SHA1>0EAF6664875DAD470C6AE9C51A48770F52D56771</SHA1>
+      <FileSize>115200</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4853034+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Reference Files\FSAE_Electric_FMEA_-_revised_2018.pptx</FileName>
+      <SHA1>9DD59FBB86F82090EC7249BD07E5E3E4489C7E15</SHA1>
+      <FileSize>1182590</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4873021+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Electric Vehicle\Reference Files\Fusible_link_testing_guidelines.pdf</FileName>
+      <SHA1>1A3B06F4DFD5693F7DB07DE5F801CD5F81AD417C</SHA1>
+      <FileSize>51290</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4893049+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\EV Templates\2019-FMEA-Template.xls</FileName>
+      <SHA1>BDFED44D0E7772F5F13BD8ED17D2C7A30CD7FA52</SHA1>
+      <FileSize>135168</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4643035+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\EV Templates\Electrical_System_Advisor_and_Electrical_System_Officer_Form.docx</FileName>
+      <SHA1>C357B6256D25B7DBD6A52E7CD193ECF49141C71B</SHA1>
+      <FileSize>43737</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4673048+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\EV Templates\ESF_Template_v1.1.xlsx</FileName>
+      <SHA1>711E3BD9552AB4255C4837F9B054DFB83FD32F23</SHA1>
+      <FileSize>403202</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4653031+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\SES Templates\2020-FSAE-Structural-Equivalency-Spreadsheet_Steel-Tube_V1.5.xlsx</FileName>
+      <SHA1>534B2CC23EE5E4FE3D91662C0BC8522CEC8C6F56</SHA1>
+      <FileSize>3141041</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4923039+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Tech Insp References\FSAE_Technical_Bulletin_-_RFID_Tags_(2).pdf</FileName>
+      <SHA1>F311457177CED8D38083085617DFFD31F7368BBD</SHA1>
+      <FileSize>318675</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4953046+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Tech Insp References\ia[1].x_t</FileName>
+      <SHA1>C3AEE19C60D9D3B61716CF2B0291B01C157BD20F</SHA1>
+      <FileSize>82294</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4983055+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Series resources\Technical Inspection\Tech Insp References\Standard_Impact_Attenuator_Design_(2)_(1).pdf</FileName>
+      <SHA1>AE886FC4EC7DEA3B9587F557F3CBD09588515C4E</SHA1>
+      <FileSize>338528</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.4963038+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Submission Documents\Electrical_System_Advisor_and_Electrical_System_Officer_Form.docx</FileName>
+      <SHA1>C357B6256D25B7DBD6A52E7CD193ECF49141C71B</SHA1>
+      <FileSize>43737</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.5003030+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Submission Documents\UCSC-2020-FSAE-Structural-Equivalency-Spreadsheet_Steel-Tube_V1.5.xlsx</FileName>
+      <SHA1>1682726EDAEB53B3CE4B8B87CA4B9174FA55770B</SHA1>
+      <FileSize>3142009</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-01-13T22:06:51.5033034+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
